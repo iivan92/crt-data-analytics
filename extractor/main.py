@@ -250,17 +250,22 @@ def send_to_api(trades):
     errors = 0
     
     print(f"  -> Iniciando subida de {len(trades)} trades a la API...")
-    for trade in trades:
+    for i, trade in enumerate(trades, 1):
         try:
-            response = requests.post(API_URL, json=trade, headers=headers)
+            # Añadido un timeout de 10 segundos para que no se quede colgado
+            response = requests.post(API_URL, json=trade, headers=headers, timeout=10)
             if response.status_code == 201:
                 success += 1
             else:
-                print(f"Error de API: {response.text}")
+                print(f"\nError de API (Trade {i}): {response.text}")
                 errors += 1
         except Exception as e:
-            print(f"Error de conexión: {e}")
+            print(f"\nError de conexión (Trade {i}): {e}")
             errors += 1
+            
+        # Imprimir progreso cada 50 trades para no colapsar la consola pero mostrar actividad
+        if i % 50 == 0:
+            print(f"    ... {i}/{len(trades)} procesados ...")
             
     print(f"  -> Subida completada: {success} exitosos, {errors} errores.")
 
