@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 # Cargar variables de entorno
 load_dotenv()
 
-API_URL = os.getenv("API_URL", "http://77.42.44.169:3000/api/v1/trades")
+API_URL = os.getenv("API_URL", "http://localhost:3000/api/v1/trades")
 SYMBOLS = ["EURUSD", "GBPUSD", "USDJPY", "XAUUSD", "USTEC"] # Pares a analizar
 TIMEFRAMES = {
     "H4": mt5.TIMEFRAME_H4,
