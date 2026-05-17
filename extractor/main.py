@@ -246,28 +246,25 @@ def send_to_api(trades):
         return
     
     headers = {"Content-Type": "application/json"}
-    success = 0
-    errors = 0
     
-    print(f"  -> Iniciando subida de {len(trades)} trades a la API...")
-    for i, trade in enumerate(trades, 1):
-        try:
-            # Añadido un timeout de 10 segundos para que no se quede colgado
-            response = requests.post(API_URL, json=trade, headers=headers, timeout=10)
-            if response.status_code == 201:
-                success += 1
-            else:
-                print(f"\nError de API (Trade {i}): {response.text}")
-                errors += 1
-        except Exception as e:
-            print(f"\nError de conexión (Trade {i}): {e}")
-            errors += 1
-            
-        # Imprimir progreso cada 50 trades para no colapsar la consola pero mostrar actividad
-        if i % 50 == 0:
-            print(f"    ... {i}/{len(trades)} procesados ...")
-            
-    print(f"  -> Subida completada: {success} exitosos, {errors} errores.")
+    # Aseguramos que la URL termine en /batch
+    batch_url = API_URL
+    if not batch_url.endswith('/batch'):
+        # Si la API_URL es algo como .../trades, le añadimos /batch
+        batch_url = batch_url.rstrip('/') + '/batch'
+        
+    print(f"  -> Iniciando subida BATCH de {len(trades)} trades a {batch_url}...")
+    
+    try:
+        # Enviamos la lista completa de trades de una vez
+        response = requests.post(batch_url, json=trades, headers=headers, timeout=30)
+        
+        if response.status_code == 201:
+            print(f"  -> BATCH Subida completada: {len(trades)} trades insertados con éxito.")
+        else:
+            print(f"  -> BATCH Error de API: {response.text}")
+    except Exception as e:
+        print(f"  -> BATCH Error de conexión: {e}")
 
 def run_extraction():
     if not connect_mt5():

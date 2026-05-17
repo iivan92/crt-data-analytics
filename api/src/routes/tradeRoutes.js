@@ -1,8 +1,9 @@
 import express from 'express';
-import { createTrade } from '../controllers/tradeController.js';
+import { createTrade, createTradesBatch } from '../controllers/tradeController.js';
 
 const router = express.Router();
 
+router.post('/batch', createTradesBatch);
 router.post('/', createTrade);
 
 export default router;
