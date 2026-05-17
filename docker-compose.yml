@@ -23,5 +23,18 @@ services:
     depends_on:
       - postgres_db
 
+  dashboard:
+    build: ./dashboard
+    ports:
+      - "8501:8501"
+    environment:
+      DB_USER: postgres
+      DB_PASSWORD: admin
+      DB_HOST: postgres_db
+      DB_PORT: "5432"
+      DB_NAME: crt_quant
+    depends_on:
+      - postgres_db
+
 volumes:
   pgdata:
