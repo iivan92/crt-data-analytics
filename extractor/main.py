@@ -238,12 +238,14 @@ def analyze_crt(df, symbol, tf_name, pip_value):
 
 def send_to_api(trades):
     if not trades:
+        print("  -> No hay trades para enviar en este periodo/par.")
         return
     
     headers = {"Content-Type": "application/json"}
     success = 0
     errors = 0
     
+    print(f"  -> Iniciando subida de {len(trades)} trades a la API...")
     for trade in trades:
         try:
             response = requests.post(API_URL, json=trade, headers=headers)
@@ -256,7 +258,7 @@ def send_to_api(trades):
             print(f"Error de conexión: {e}")
             errors += 1
             
-    print(f"Subida completada: {success} exitosos, {errors} errores.")
+    print(f"  -> Subida completada: {success} exitosos, {errors} errores.")
 
 def run_extraction():
     if not connect_mt5():
@@ -265,17 +267,23 @@ def run_extraction():
     for symbol in SYMBOLS:
         pip_value = get_pip_value(symbol)
         if not pip_value:
+            print(f"No se pudo obtener el valor del pip para {symbol}")
             continue
             
         print(f"--- Procesando {symbol} ---")
         for tf_name, tf_const in TIMEFRAMES.items():
-            print(f" Obteniendo datos para {tf_name}...")
+            print(f" Obteniendo datos para {symbol} {tf_name}...")
             df = get_rates(symbol, tf_const, HISTORY_BARS)
             if not df.empty:
+                print(f"  -> {len(df)} velas descargadas. Analizando...")
                 trades = analyze_crt(df, symbol, tf_name, pip_value)
+                print(f"  -> {len(trades)} trades encontrados localmente.")
                 send_to_api(trades)
+            else:
+                print(f"  -> No se obtuvieron datos (velas vacías) para {symbol} {tf_name}")
                 
     mt5.shutdown()
+    print("=== Extracción finalizada ===")
 
 if __name__ == "__main__":
     print("Iniciando servicio extractor de MT5 (CRT)...")
