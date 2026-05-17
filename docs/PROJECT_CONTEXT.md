@@ -22,6 +22,6 @@ El sistema evalúa "Setups" basados en la acción del precio y la liquidez. Los 
 
 ## 3. Flujo de Datos
 
-1. MT5 ejecuta un backtest/forward test y envía un payload JSON por cada trade cerrado.
-2. La API (Node.js) recibe, valida y guarda el trade en la base de datos, incluyendo la data dinámica (JSONB).
-3. El entorno de análisis (Python/Grafana) consulta estos datos para extraer métricas complejas y relaciones entre temporalidades.
+1. **Extracción (Windows):** Un servicio extractor escrito en Python (`extractor/`) se conecta a las terminales de MetaTrader 5 locales, descarga datos históricos (`copy_rates_from_pos`), procesa los Setups CRT, y genera lotes en formato JSON.
+2. **Ingesta (Linux):** El extractor envía el payload JSON a la API (Node.js). La API recibe, valida (Zod) y guarda los trades en TimescaleDB, incluyendo la data dinámica (JSONB).
+3. **Análisis (Linux/Local):** El entorno de análisis (Python/Grafana) consulta estos datos almacenados para extraer métricas complejas y relaciones cruzadas entre temporalidades.

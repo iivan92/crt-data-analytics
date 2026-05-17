@@ -2,10 +2,11 @@
 
 ## 1. Stack Tecnológico
 
-- **Ingesta (Backend):** Node.js con Express.js.
-- **Base de Datos:** PostgreSQL optimizado para series temporales (TimescaleDB).
-- **Análisis de Datos:** Python (Pandas, SQLAlchemy).
-- **Infraestructura:** Docker y Docker Compose para orquestación local/VPS.
+- **Extracción de Datos (Windows):** Python (librería `MetaTrader5`, `pandas`, `requests`). Un servicio programado que lee los datos directamente de los terminales MT5, procesa la lógica CRT y envía JSONs a la API.
+- **Ingesta (Backend Linux):** Node.js con Express.js.
+- **Base de Datos (Linux):** PostgreSQL optimizado para series temporales (TimescaleDB).
+- **Análisis de Datos:** Python (Pandas, SQLAlchemy) / Grafana.
+- **Infraestructura:** Docker y Docker Compose para orquestación en servidor Linux.
 
 ## 2. Estándares de Desarrollo Backend (Node.js)
 
