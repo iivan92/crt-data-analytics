@@ -23,10 +23,14 @@ HISTORY_BARS = 5000
 MIN_PIPS = 5.0
 
 def connect_mt5():
-    if not mt5.initialize():
-        print("Fallo al inicializar MT5, error =", mt5.last_error())
+    # Ruta específica del MetaTrader que queremos utilizar
+    mt5_path = r"C:\Program Files\MetaTrader 5\terminal64.exe"
+    
+    if not mt5.initialize(mt5_path):
+        print("Fallo al inicializar MT5 en la ruta:", mt5_path)
+        print("Error =", mt5.last_error())
         return False
-    print("MT5 inicializado correctamente.")
+    print("MT5 inicializado correctamente en:", mt5_path)
     return True
 
 def get_pip_value(symbol):
