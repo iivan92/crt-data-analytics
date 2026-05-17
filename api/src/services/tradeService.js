@@ -96,3 +96,20 @@ export const createTradesBatch = async (tradesData) => {
   const result = await query(sql, flatValues);
   return result.rows;
 };
+
+export const getTradesStats = async () => {
+  const sql = `
+    SELECT 
+      symbol, 
+      timeframe, 
+      COUNT(*) as total_trades,
+      SUM(CASE WHEN result_type = 'TP_EXPANSION' THEN 1 ELSE 0 END) as tp_expansion,
+      SUM(CASE WHEN result_type = 'TP_REINICIO' THEN 1 ELSE 0 END) as tp_reinicio,
+      SUM(CASE WHEN result_type = 'SL' THEN 1 ELSE 0 END) as sl
+    FROM crt_trades
+    GROUP BY symbol, timeframe
+    ORDER BY symbol, timeframe;
+  `;
+  const result = await query(sql);
+  return result.rows;
+};

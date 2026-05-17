@@ -46,3 +46,15 @@ export const createTradesBatch = async (req, res, next) => {
     next(error);
   }
 };
+
+export const getTradesStats = async (req, res, next) => {
+  try {
+    const stats = await tradeService.getTradesStats();
+    res.status(200).json({
+      status: 'success',
+      data: stats,
+    });
+  } catch (error) {
+    next(error);
+  }
+};
