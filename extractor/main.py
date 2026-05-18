@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 import time
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
 
 # Cargar variables de entorno
@@ -19,7 +19,7 @@ TIMEFRAMES = {
     "W1": mt5.TIMEFRAME_W1,
     "MN1": mt5.TIMEFRAME_MN1
 }
-HISTORY_BARS = 10000
+HISTORY_YEARS = 6
 MIN_PIPS = 5.0
 
 def connect_mt5():
@@ -42,10 +42,10 @@ def get_pip_value(symbol):
         return info.point * 10
     return info.point
 
-def get_rates(symbol, tf_constant, count):
+def get_rates(symbol, tf_constant, start_date, end_date):
     # Intentar descargar hasta 5 veces dando tiempo a MT5 a sincronizar el historial largo
     for attempt in range(5):
-        rates = mt5.copy_rates_from_pos(symbol, tf_constant, 0, count)
+        rates = mt5.copy_rates_range(symbol, tf_constant, start_date, end_date)
         if rates is not None and len(rates) > 0:
             df = pd.DataFrame(rates)
             df['time'] = pd.to_datetime(df['time'], unit='s', utc=True)
@@ -274,19 +274,26 @@ def run_extraction():
     if not connect_mt5():
         return
         
+    # Definir el rango temporal: últimos X años
+    end_date = datetime.now()
+    start_date = end_date - timedelta(days=365 * HISTORY_YEARS)
+        
     for symbol in SYMBOLS:
         # Asegurar que el símbolo esté en el Market Watch para poder descargar datos
         mt5.symbol_select(symbol, True)
+        
+        # Pequeña pausa para permitir que MT5 inicialice el símbolo y su historial (ej. USDJPY H4)
+        time.sleep(1.5)
         
         pip_value = get_pip_value(symbol)
         if not pip_value:
             print(f"No se pudo obtener el valor del pip para {symbol}")
             continue
             
-        print(f"--- Procesando {symbol} ---")
+        print(f"--- Procesando {symbol} (desde {start_date.strftime('%Y-%m-%d')} hasta {end_date.strftime('%Y-%m-%d')}) ---")
         for tf_name, tf_const in TIMEFRAMES.items():
             print(f" Obteniendo datos para {symbol} {tf_name}...")
-            df = get_rates(symbol, tf_const, HISTORY_BARS)
+            df = get_rates(symbol, tf_const, start_date, end_date)
             if not df.empty:
                 print(f"  -> {len(df)} velas descargadas. Analizando...")
                 trades = analyze_crt(df, symbol, tf_name, pip_value)
