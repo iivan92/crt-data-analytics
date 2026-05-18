@@ -19,7 +19,7 @@ TIMEFRAMES = {
     "W1": mt5.TIMEFRAME_W1,
     "MN1": mt5.TIMEFRAME_MN1
 }
-HISTORY_YEARS = 6
+HISTORY_YEARS = 4
 MIN_PIPS = 5.0
 
 def connect_mt5():
