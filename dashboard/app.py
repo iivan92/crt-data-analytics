@@ -214,7 +214,17 @@ try:
                     if 'W1' in htfs_calc: df_calc_ctx = df_calc_ctx[df_calc_ctx['W1'] == calc_w1]
                     if 'D1' in htfs_calc: df_calc_ctx = df_calc_ctx[df_calc_ctx['D1'] == calc_d1]
                     
-                    # Resultados Bull vs Bear
+                    # Calcular probabilidades base (sin filtros de HTF)
+                    bull_trades_base = df_calc_ltf[df_calc_ltf['direction'] == 'BULL']
+                    bear_trades_base = df_calc_ltf[df_calc_ltf['direction'] == 'BEAR']
+                    
+                    t_bull_base = len(bull_trades_base)
+                    wr_bull_base = (bull_trades_base['is_win'].sum() / t_bull_base * 100) if t_bull_base > 0 else 0
+                    
+                    t_bear_base = len(bear_trades_base)
+                    wr_bear_base = (bear_trades_base['is_win'].sum() / t_bear_base * 100) if t_bear_base > 0 else 0
+                    
+                    # Resultados con filtros aplicados (Bull vs Bear)
                     bull_trades = df_calc_ctx[df_calc_ctx['direction'] == 'BULL']
                     bear_trades = df_calc_ctx[df_calc_ctx['direction'] == 'BEAR']
                     
@@ -226,15 +236,20 @@ try:
                     w_bear = bear_trades['is_win'].sum()
                     wr_bear = (w_bear/t_bear*100) if t_bear > 0 else 0
                     
+                    delta_bull = wr_bull - wr_bull_base
+                    delta_bear = wr_bear - wr_bear_base
+                    
                     c_res1, c_res2 = st.columns(2)
                     
                     with c_res1:
                         st.info("### 🟢 PROBABILIDAD BULL")
-                        st.metric("Win Rate", f"{wr_bull:.1f}%", f"{t_bull} trades totales")
+                        st.metric("Win Rate", f"{wr_bull:.1f}%", f"{delta_bull:+.1f}% vs Base ({wr_bull_base:.1f}%)", delta_color="normal")
+                        st.caption(f"{t_bull} trades totales")
                         
                     with c_res2:
                         st.warning("### 🔴 PROBABILIDAD BEAR")
-                        st.metric("Win Rate", f"{wr_bear:.1f}%", f"{t_bear} trades totales")
+                        st.metric("Win Rate", f"{wr_bear:.1f}%", f"{delta_bear:+.1f}% vs Base ({wr_bear_base:.1f}%)", delta_color="normal")
+                        st.caption(f"{t_bear} trades totales")
                         
                     if wr_bull > wr_bear and t_bull > 0:
                         st.success("🌟 **Dirección Estadística Óptima: COMPRAS (BULL)**")
