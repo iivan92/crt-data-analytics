@@ -17,9 +17,9 @@ TIMEFRAMES = {
     "H12": mt5.TIMEFRAME_H12,
     "D1": mt5.TIMEFRAME_D1,
     "W1": mt5.TIMEFRAME_W1,
-    "M1": mt5.TIMEFRAME_M1
+    "MN1": mt5.TIMEFRAME_MN1
 }
-HISTORY_BARS = 5000
+HISTORY_BARS = 10000
 MIN_PIPS = 5.0
 
 def connect_mt5():
