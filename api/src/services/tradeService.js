@@ -113,3 +113,9 @@ export const getTradesStats = async () => {
   const result = await query(sql);
   return result.rows;
 };
+
+export const truncateTrades = async () => {
+  const sql = `TRUNCATE crt_trades CASCADE;`;
+  await query(sql);
+  return true;
+};

@@ -58,3 +58,15 @@ export const getTradesStats = async (req, res, next) => {
     next(error);
   }
 };
+
+export const clearTrades = async (req, res, next) => {
+  try {
+    await tradeService.truncateTrades();
+    res.status(200).json({
+      status: 'success',
+      message: 'Database truncated successfully. All trades deleted.',
+    });
+  } catch (error) {
+    next(error);
+  }
+};
