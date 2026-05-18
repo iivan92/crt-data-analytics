@@ -131,24 +131,32 @@ try:
         # --- TAB 3: TOPS & WORST ---
         with tab3:
             st.markdown("## 🏆 Mejores y Peores Setups (Multi-Timeframe)")
-            st.markdown("Calcula las combinaciones con mayor win rate usando MN1, W1 y D1 como contexto para el LTF elegido.")
+            st.markdown("Calcula las combinaciones con mayor win rate usando MN1, W1 y D1 como contexto para el par y LTF elegidos.")
             
-            top_ltf = st.selectbox("Elige tu LTF para buscar setups:", options=['H12', 'H8', 'H4', 'D1'], index=2)
+            col_t3_1, col_t3_2, col_t3_3 = st.columns(3)
+            with col_t3_1:
+                top_sym = st.selectbox("Par a analizar:", options=df['symbol'].unique(), key="top_sym")
+            with col_t3_2:
+                top_ltf = st.selectbox("Elige tu LTF para buscar setups:", options=['H12', 'H8', 'H4', 'D1'], index=2, key="top_ltf")
+            with col_t3_3:
+                min_trades = st.slider("Mínimo de Trades por setup", 1, 50, 5, key="top_min_trades")
             
-            if st.button("Generar Ranking de Setups"):
-                with st.spinner('Analizando combinaciones en toda la base de datos...'):
-                    # HTFs a evaluar
-                    htfs = ['MN1', 'W1', 'D1']
-                    # Quitamos el LTF de la lista de HTFs si coinciden
-                    htfs = [h for h in htfs if h != top_ltf]
-                    
-                    df_target_ltf = df[df['timeframe'] == top_ltf]
-                    
+            with st.spinner('Analizando combinaciones en toda la base de datos...'):
+                # HTFs a evaluar
+                htfs = ['MN1', 'W1', 'D1']
+                # Quitamos el LTF de la lista de HTFs si coinciden
+                htfs = [h for h in htfs if h != top_ltf]
+                
+                df_target_ltf = df[(df['timeframe'] == top_ltf) & (df['symbol'] == top_sym)]
+                
+                if df_target_ltf.empty:
+                    st.warning(f"No hay datos suficientes para {top_sym} en {top_ltf}.")
+                else:
                     # Generar contexto
                     df_ctx = get_multi_htf_context(df_target_ltf, df, htfs)
                     
-                    # Agrupar por Símbolo, Dirección LTF, y estado de los HTFs
-                    group_cols = ['symbol', 'direction'] + htfs
+                    # Agrupar por Dirección LTF y estado de los HTFs (ya estamos filtrando por símbolo)
+                    group_cols = ['direction'] + htfs
                     grouped = df_ctx.groupby(group_cols).agg(
                         Trades=('is_win', 'count'),
                         Wins=('is_win', 'sum')
@@ -157,7 +165,6 @@ try:
                     grouped['Win Rate %'] = (grouped['Wins'] / grouped['Trades'] * 100).round(2)
                     
                     # Filtrar por significancia estadística
-                    min_trades = st.slider("Mínimo de Trades para considerar setup válido", 1, 50, 5)
                     valid_setups = grouped[grouped['Trades'] >= min_trades].copy()
                     
                     if valid_setups.empty:
