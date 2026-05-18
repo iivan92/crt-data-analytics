@@ -291,16 +291,34 @@ def run_extraction():
             continue
             
         print(f"--- Procesando {symbol} (desde {start_date.strftime('%Y-%m-%d')} hasta {end_date.strftime('%Y-%m-%d')}) ---")
+        
+        # Primero descargamos todos los DataFrames para encontrar la fecha de inicio común
+        dfs_by_tf = {}
+        common_start_aware = start_date.replace(tzinfo=timezone.utc)
+        
         for tf_name, tf_const in TIMEFRAMES.items():
             print(f" Obteniendo datos para {symbol} {tf_name}...")
             df = get_rates(symbol, tf_const, start_date, end_date)
             if not df.empty:
-                print(f"  -> {len(df)} velas descargadas. Analizando...")
-                trades = analyze_crt(df, symbol, tf_name, pip_value)
+                first_time = df['time'].iloc[0]
+                # Si el broker limitó las velas, la primera fecha será más reciente que start_date
+                if first_time > common_start_aware:
+                    common_start_aware = first_time
+                dfs_by_tf[tf_name] = df
+            else:
+                print(f"  -> No se obtuvieron datos (velas vacías) para {symbol} {tf_name}")
+                
+        # Ahora filtramos todos los timeframes para que empiecen en la misma fecha común
+        print(f" Sincronizando todos los timeframes a la fecha común disponible: {common_start_aware.strftime('%Y-%m-%d %H:%M:%S')}")
+        for tf_name, df in dfs_by_tf.items():
+            filtered_df = df[df['time'] >= common_start_aware].reset_index(drop=True)
+            if not filtered_df.empty:
+                print(f"  -> Analizando {symbol} {tf_name}: {len(filtered_df)} velas sincronizadas.")
+                trades = analyze_crt(filtered_df, symbol, tf_name, pip_value)
                 print(f"  -> {len(trades)} trades encontrados localmente.")
                 send_to_api(trades)
             else:
-                print(f"  -> No se obtuvieron datos (velas vacías) para {symbol} {tf_name}")
+                print(f"  -> Tras sincronizar fechas, no quedaron velas para {symbol} {tf_name}")
                 
     mt5.shutdown()
     print("=== Extracción finalizada ===")
