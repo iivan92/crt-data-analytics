@@ -43,13 +43,17 @@ def get_pip_value(symbol):
     return info.point
 
 def get_rates(symbol, tf_constant, count):
-    rates = mt5.copy_rates_from_pos(symbol, tf_constant, 0, count)
-    if rates is None or len(rates) == 0:
-        return pd.DataFrame()
-    
-    df = pd.DataFrame(rates)
-    df['time'] = pd.to_datetime(df['time'], unit='s', utc=True)
-    return df
+    # Intentar descargar hasta 5 veces dando tiempo a MT5 a sincronizar el historial largo
+    for attempt in range(5):
+        rates = mt5.copy_rates_from_pos(symbol, tf_constant, 0, count)
+        if rates is not None and len(rates) > 0:
+            df = pd.DataFrame(rates)
+            df['time'] = pd.to_datetime(df['time'], unit='s', utc=True)
+            return df
+        # Si no hay datos, esperamos y reintentamos (MT5 los descarga en segundo plano)
+        time.sleep(2.0)
+        
+    return pd.DataFrame()
 
 def analyze_crt(df, symbol, tf_name, pip_value):
     """
@@ -271,6 +275,9 @@ def run_extraction():
         return
         
     for symbol in SYMBOLS:
+        # Asegurar que el símbolo esté en el Market Watch para poder descargar datos
+        mt5.symbol_select(symbol, True)
+        
         pip_value = get_pip_value(symbol)
         if not pip_value:
             print(f"No se pudo obtener el valor del pip para {symbol}")
