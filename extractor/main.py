@@ -24,7 +24,8 @@ MIN_PIPS = 5.0
 
 def connect_mt5():
     # Ruta específica del MetaTrader que queremos utilizar
-    mt5_path = r"C:\Program Files\MetaTrader 5\terminal64.exe"
+    # Usar la instalación de BlackBull Markets MT5 que provee historial extendido
+    mt5_path = r"C:\Program Files\BlackBull Markets MT5\terminal64.exe"
     
     if not mt5.initialize(mt5_path):
         print("Fallo al inicializar MT5 en la ruta:", mt5_path)
@@ -276,7 +277,8 @@ def run_extraction():
         
     # Definir el rango temporal: últimos X años
     end_date = datetime.now()
-    start_date = end_date - timedelta(days=365 * HISTORY_YEARS)
+    # Forzar fecha inicial fija para obtener historial largo (desde 2021-01-01)
+    start_date = datetime(2021, 1, 1)
         
     for symbol in SYMBOLS:
         # Asegurar que el símbolo esté en el Market Watch para poder descargar datos
