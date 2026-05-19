@@ -72,20 +72,70 @@ try:
             st.sidebar.header("Filtros Generales")
             selected_symbols = st.sidebar.multiselect("Símbolo", options=df['symbol'].unique(), default=df['symbol'].unique(), key="sym_t1")
             selected_timeframes = st.sidebar.multiselect("Timeframe", options=df['timeframe'].unique(), default=df['timeframe'].unique(), key="tf_t1")
-            
+
             filtered_df = df[(df['symbol'].isin(selected_symbols)) & (df['timeframe'].isin(selected_timeframes))]
             total_trades = len(filtered_df)
             wins = filtered_df['is_win'].sum()
             win_rate = (wins / total_trades * 100) if total_trades > 0 else 0
-            
+
             col1, col2, col3, col4 = st.columns(4)
             col1.metric("Total Trades", total_trades)
             col2.metric("Win Rate Global (%)", f"{win_rate:.2f}%")
-            
-            st.markdown("### Resultados por Par y Timeframe")
-            summary_df = filtered_df.groupby(['symbol', 'timeframe', 'result_type']).size().reset_index(name='count')
-            fig1 = px.bar(summary_df, x="symbol", y="count", color="result_type", barmode="group", facet_col="timeframe")
-            st.plotly_chart(fig1, use_container_width=True)
+
+            st.markdown("### Win Rate por Timeframe")
+            # Win rate agregado por timeframe
+            tf_group = filtered_df.groupby('timeframe').agg(Trades=('result_type', 'count'), Wins=('is_win', 'sum')).reset_index()
+            if not tf_group.empty:
+                tf_group['Win Rate %'] = (tf_group['Wins'] / tf_group['Trades'] * 100).round(2)
+                fig_tf = px.bar(tf_group, x='timeframe', y='Win Rate %', text='Win Rate %', color='timeframe')
+                fig_tf.update_traces(texttemplate='%{text}%', textposition='outside')
+                st.plotly_chart(fig_tf, use_container_width=True)
+                st.dataframe(tf_group.sort_values('Win Rate %', ascending=False), use_container_width=True)
+            else:
+                st.info("No hay trades para los filtros seleccionados.")
+
+            st.markdown("### Distribución de tipos de TP (entre los wins)")
+            wins_df = filtered_df[filtered_df['is_win'] == True]
+            if not wins_df.empty:
+                tp_dist = wins_df['result_type'].value_counts(normalize=True).mul(100).reset_index()
+                tp_dist.columns = ['result_type', 'percent_of_wins']
+                fig_tp = px.pie(tp_dist, names='result_type', values='percent_of_wins', title='Porcentaje relativo dentro de los wins')
+                st.plotly_chart(fig_tp, use_container_width=True)
+                st.dataframe(tp_dist, use_container_width=True)
+            else:
+                st.info('No hay wins para calcular la distribución de TP.')
+
+            st.markdown("### Análisis de SL y Reinicios")
+            sl_df = filtered_df[filtered_df['result_type'] == 'SL']
+            if not sl_df.empty:
+                sl_total = len(sl_df)
+                sl_with_restart = sl_df['has_restarted'].sum()
+                sl_restart_pct = (sl_with_restart / sl_total * 100) if sl_total > 0 else 0
+                st.metric("SL total", sl_total)
+                st.metric("SL con reinicios (%)", f"{sl_restart_pct:.2f}%")
+                st.dataframe(sl_df[['symbol', 'timeframe', 'entry_time', 'exit_time', 'sweep_count', 'has_restarted']].head(50), use_container_width=True)
+            else:
+                st.info('No hay SLs en el conjunto filtrado.')
+
+            st.markdown("### Win Rate entre trades con Reinicio")
+            restarted = filtered_df[filtered_df['has_restarted'] == True]
+            if not restarted.empty:
+                restarted_total = len(restarted)
+                restarted_wins = restarted['is_win'].sum()
+                restarted_wr = (restarted_wins / restarted_total * 100) if restarted_total > 0 else 0
+                st.metric("Trades con reinicio", restarted_total)
+                st.metric("Win Rate (reinicios)", f"{restarted_wr:.2f}%")
+                # Mostrar comparativa por timeframe
+                if 'timeframe' in restarted.columns:
+                    r_group = restarted.groupby('timeframe').agg(Trades=('is_win', 'count'), Wins=('is_win', 'sum')).reset_index()
+                    if not r_group.empty:
+                        r_group['Win Rate %'] = (r_group['Wins'] / r_group['Trades'] * 100).round(2)
+                        fig_r = px.bar(r_group, x='timeframe', y='Win Rate %', color='timeframe', text='Win Rate %')
+                        fig_r.update_traces(texttemplate='%{text}%', textposition='outside')
+                        st.plotly_chart(fig_r, use_container_width=True)
+                        st.dataframe(r_group, use_container_width=True)
+            else:
+                st.info('No hay trades con reinicio en el conjunto filtrado.')
 
         # --- TAB 2: SIMPLE HTF ---
         with tab2:
