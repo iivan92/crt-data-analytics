@@ -44,16 +44,25 @@ def get_pip_value(symbol):
     return info.point
 
 def get_rates(symbol, tf_constant, start_date, end_date):
-    # Intentar descargar hasta 5 veces dando tiempo a MT5 a sincronizar el historial largo
-    for attempt in range(5):
+    # Intentar descargar varias veces dando tiempo a MT5 a sincronizar el historial largo
+    max_attempts = 10
+    wait_seconds = 30.0  # esperar 30 segundos entre intentos para descargas largas
+
+    for attempt in range(1, max_attempts + 1):
+        print(f"   -> Intento {attempt}/{max_attempts}: descargando {symbol} {tf_constant}...")
         rates = mt5.copy_rates_range(symbol, tf_constant, start_date, end_date)
         if rates is not None and len(rates) > 0:
+            print(f"   -> Datos recibidos: {len(rates)} barras en intento {attempt}.")
             df = pd.DataFrame(rates)
             df['time'] = pd.to_datetime(df['time'], unit='s', utc=True)
             return df
-        # Si no hay datos, esperamos y reintentamos (MT5 los descarga en segundo plano)
-        time.sleep(2.0)
-        
+
+        # Si no hay datos, registramos y esperamos antes de reintentar
+        print(f"   -> Intento {attempt} fallido: sin datos. Esperando {int(wait_seconds)}s antes del siguiente intento...")
+        if attempt < max_attempts:
+            time.sleep(wait_seconds)
+
+    print(f"   -> Todos los intentos ({max_attempts}) fallaron para {symbol} {tf_constant}.")
     return pd.DataFrame()
 
 def analyze_crt(df, symbol, tf_name, pip_value):
