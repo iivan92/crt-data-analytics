@@ -45,7 +45,7 @@ def get_pip_value(symbol):
 
 def get_rates(symbol, tf_constant, start_date, end_date):
     # Intentar descargar varias veces dando tiempo a MT5 a sincronizar el historial largo
-    max_attempts = 10
+    max_attempts = 5
     wait_seconds = 30.0  # esperar 30 segundos entre intentos para descargas largas
 
     for attempt in range(1, max_attempts + 1):
@@ -286,8 +286,8 @@ def run_extraction():
         
     # Definir el rango temporal: últimos X años
     end_date = datetime.now()
-    # Forzar fecha inicial fija para obtener historial largo (desde 2021-01-01)
-    start_date = datetime(2021, 1, 1)
+    # Forzar fecha inicial fija para obtener historial largo (desde 2022-01-01)
+    start_date = datetime(2022, 1, 1)
         
     for symbol in SYMBOLS:
         # Asegurar que el símbolo esté en el Market Watch para poder descargar datos
