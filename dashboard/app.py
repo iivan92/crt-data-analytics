@@ -25,10 +25,11 @@ def init_connection():
 @st.cache_data(ttl=600)
 def load_data():
     engine = init_connection()
-    query = """
-    SELECT symbol, timeframe, direction, entry_time, exit_time, result_type, has_restarted 
-    FROM crt_trades;
-    """
+        query = """
+        SELECT symbol, timeframe, direction, entry_time, exit_time, result_type, has_restarted,
+            sweep_count, mae, mfe, hit_50_percent
+        FROM crt_trades;
+        """
     df = pd.read_sql(query, engine)
     df['entry_time'] = pd.to_datetime(df['entry_time'])
     df['exit_time'] = pd.to_datetime(df['exit_time'])
