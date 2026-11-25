@@ -1,0 +1,530 @@
+
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	══════════════════════════════════════════════════════════════════
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	 CRT BIAS ANALYZER V2 (CON FILTRO MOTHER BAR) | Símbolo: EURUSD
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	 Historial: 5000 velas por TF | Filtro rango: 5.0 pips
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	 TP Sweep=50% MB | TP Run=max(161.8% MB,mecha) | Cierre dinámico ON
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	══════════════════════════════════════════════════════════════════
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	 LEYENDA DELTA vs BASE:
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] delta > +5%   [++  ] delta > +2%   [ =  ] -2% a +2%
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] delta < -2%   [--- ] delta < -5%
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	  *** MUESTRA PEQUEÑA = menos de 20 operaciones, no concluyente
+2026.05.12 18:22:00.035	CRT_Analyzer_HTF_vC (EURUSD,D1)	══════════════════════════════════════════════════════════════════
+2026.05.12 18:22:00.036	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.036	CRT_Analyzer_HTF_vC (EURUSD,D1)	>>> Calculando estadísticas base (sin filtro HTF)...
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	════════════════ ESTADÍSTICAS BASE (sin filtro) ════════════════
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	--- W1  ---
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | W1 | Bull Sweep | T:212 | WIN:60.8% | SL:38.2% | Rev:0.9%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | W1 | Bear Sweep | T:257 | WIN:60.3% | SL:37.0% | Rev:2.7%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | W1 | Bull Run   | T:217 | WIN:62.2% | SL:27.6% | Rev:10.1%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | W1 | Bear Run   | T:228 | WIN:57.0% | SL:28.5% | Rev:14.5%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	--- D1  ---
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | D1 | Bull Sweep | T:941 | WIN:59.0% | SL:38.9% | Rev:2.1%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | D1 | Bear Sweep | T:1198 | WIN:60.2% | SL:37.6% | Rev:2.2%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | D1 | Bull Run   | T:1060 | WIN:59.1% | SL:27.8% | Rev:13.1%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | D1 | Bear Run   | T:1055 | WIN:59.1% | SL:27.9% | Rev:13.0%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	--- H12 ---
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H12 | Bull Sweep | T:930 | WIN:59.8% | SL:37.3% | Rev:2.9%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H12 | Bear Sweep | T:1196 | WIN:62.5% | SL:35.6% | Rev:1.9%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H12 | Bull Run   | T:977 | WIN:57.0% | SL:27.5% | Rev:15.5%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H12 | Bear Run   | T:1009 | WIN:57.4% | SL:28.8% | Rev:13.8%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	--- H8  ---
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H8 | Bull Sweep | T:959 | WIN:58.3% | SL:37.6% | Rev:4.1%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H8 | Bear Sweep | T:1184 | WIN:60.0% | SL:37.3% | Rev:2.7%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H8 | Bull Run   | T:923 | WIN:51.6% | SL:31.4% | Rev:17.0%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H8 | Bear Run   | T:886 | WIN:50.6% | SL:30.6% | Rev:18.8%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	--- H4  ---
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H4 | Bull Sweep | T:949 | WIN:57.7% | SL:37.3% | Rev:5.0%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H4 | Bear Sweep | T:1195 | WIN:56.8% | SL:40.8% | Rev:2.4%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H4 | Bull Run   | T:1008 | WIN:50.6% | SL:32.2% | Rev:17.2%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	  BASE | H4 | Bear Run   | T:904 | WIN:49.7% | SL:30.8% | Rev:19.6%
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	╔══════════════════════════════════════════════════════════════╗
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	║              BIAS SIMPLE: MN1 → TF inferior                  ║
+2026.05.12 18:22:00.097	CRT_Analyzer_HTF_vC (EURUSD,D1)	╚══════════════════════════════════════════════════════════════╝
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→W1] ALCISTA genérico (Bull Sweep o Bull Run en MN1)
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 ANY_BULL  ->W1 | Bull Sweep | T:82 | WIN:56.1% | SL:43.9% | Rev:0.0% | Delta:-4.8%  [base:60.8% n=212]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 ANY_BULL  ->W1 | Bull Run   | T:92 | WIN:66.3% | SL:26.1% | Rev:7.6% | Delta:+4.1%  [base:62.2% n=217]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→W1] BAJISTA genérico (Bear Sweep o Bear Run en MN1)
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 ANY_BEAR  ->W1 | Bear Sweep | T:112 | WIN:63.4% | SL:33.9% | Rev:2.7% | Delta:+3.1%  [base:60.3% n=257]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1 ANY_BEAR  ->W1 | Bear Run   | T:87 | WIN:62.1% | SL:31.0% | Rev:6.9% | Delta:+5.1%  [base:57.0% n=228]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→W1] Bias = MN1 Bull SWEEP
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullSweep ->W1 | Bull Sweep | T:35 | WIN:60.0% | SL:40.0% | Rev:0.0% | Delta:-0.8%  [base:60.8% n=212]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullSweep ->W1 | Bull Run   | T:42 | WIN:61.9% | SL:28.6% | Rev:9.5% | Delta:-0.3%  [base:62.2% n=217]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→W1] Bias = MN1 Bull RUN
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1 BullRun   ->W1 | Bull Sweep | T:47 | WIN:53.2% | SL:46.8% | Rev:0.0% | Delta:-7.7%  [base:60.8% n=212]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1 BullRun   ->W1 | Bull Run   | T:50 | WIN:70.0% | SL:24.0% | Rev:6.0% | Delta:+7.8%  [base:62.2% n=217]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→W1] Bias = MN1 Bear SWEEP
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearSweep ->W1 | Bear Sweep | T:61 | WIN:59.0% | SL:37.7% | Rev:3.3% | Delta:-1.3%  [base:60.3% n=257]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 BearSweep ->W1 | Bear Run   | T:41 | WIN:61.0% | SL:29.3% | Rev:9.8% | Delta:+4.0%  [base:57.0% n=228]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→W1] Bias = MN1 Bear RUN
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1 BearRun   ->W1 | Bear Sweep | T:51 | WIN:68.6% | SL:29.4% | Rev:2.0% | Delta:+8.3%  [base:60.3% n=257]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1 BearRun   ->W1 | Bear Run   | T:46 | WIN:63.0% | SL:32.6% | Rev:4.3% | Delta:+6.0%  [base:57.0% n=228]
+2026.05.12 18:22:00.101	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→D1] ALCISTA genérico (Bull Sweep o Bull Run en MN1)
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BULL  ->D1 | Bull Sweep | T:394 | WIN:57.6% | SL:40.6% | Rev:1.8% | Delta:-1.4%  [base:59.0% n=941]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 ANY_BULL  ->D1 | Bull Run   | T:464 | WIN:61.4% | SL:26.3% | Rev:12.3% | Delta:+2.4%  [base:59.1% n=1060]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→D1] BAJISTA genérico (Bear Sweep o Bear Run en MN1)
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BEAR  ->D1 | Bear Sweep | T:491 | WIN:61.1% | SL:36.5% | Rev:2.4% | Delta:+0.9%  [base:60.2% n=1198]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BEAR  ->D1 | Bear Run   | T:444 | WIN:59.2% | SL:29.5% | Rev:11.3% | Delta:+0.1%  [base:59.1% n=1055]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→D1] Bias = MN1 Bull SWEEP
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 BullSweep ->D1 | Bull Sweep | T:185 | WIN:54.1% | SL:43.2% | Rev:2.7% | Delta:-4.9%  [base:59.0% n=941]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 BullSweep ->D1 | Bull Run   | T:214 | WIN:61.7% | SL:25.2% | Rev:13.1% | Delta:+2.6%  [base:59.1% n=1060]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→D1] Bias = MN1 Bull RUN
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullRun   ->D1 | Bull Sweep | T:209 | WIN:60.8% | SL:38.3% | Rev:1.0% | Delta:+1.8%  [base:59.0% n=941]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 BullRun   ->D1 | Bull Run   | T:250 | WIN:61.2% | SL:27.2% | Rev:11.6% | Delta:+2.1%  [base:59.1% n=1060]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→D1] Bias = MN1 Bear SWEEP
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 BearSweep ->D1 | Bear Sweep | T:241 | WIN:64.7% | SL:33.6% | Rev:1.7% | Delta:+4.5%  [base:60.2% n=1198]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearSweep ->D1 | Bear Run   | T:211 | WIN:57.3% | SL:30.3% | Rev:12.3% | Delta:-1.8%  [base:59.1% n=1055]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→D1] Bias = MN1 Bear RUN
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 BearRun   ->D1 | Bear Sweep | T:250 | WIN:57.6% | SL:39.2% | Rev:3.2% | Delta:-2.6%  [base:60.2% n=1198]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearRun   ->D1 | Bear Run   | T:233 | WIN:60.9% | SL:28.8% | Rev:10.3% | Delta:+1.8%  [base:59.1% n=1055]
+2026.05.12 18:22:00.117	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H12] ALCISTA genérico (Bull Sweep o Bull Run en MN1)
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BULL  ->H12 | Bull Sweep | T:393 | WIN:59.5% | SL:37.7% | Rev:2.8% | Delta:-0.2%  [base:59.8% n=930]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BULL  ->H12 | Bull Run   | T:418 | WIN:56.7% | SL:29.2% | Rev:14.1% | Delta:-0.3%  [base:57.0% n=977]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H12] BAJISTA genérico (Bear Sweep o Bear Run en MN1)
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BEAR  ->H12 | Bear Sweep | T:532 | WIN:62.4% | SL:35.5% | Rev:2.1% | Delta:-0.1%  [base:62.5% n=1196]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BEAR  ->H12 | Bear Run   | T:436 | WIN:56.7% | SL:28.2% | Rev:15.1% | Delta:-0.7%  [base:57.4% n=1009]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H12] Bias = MN1 Bull SWEEP
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 BullSweep ->H12 | Bull Sweep | T:184 | WIN:57.6% | SL:38.0% | Rev:4.3% | Delta:-2.2%  [base:59.8% n=930]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullSweep ->H12 | Bull Run   | T:195 | WIN:57.4% | SL:24.1% | Rev:18.5% | Delta:+0.4%  [base:57.0% n=977]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H12] Bias = MN1 Bull RUN
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullRun   ->H12 | Bull Sweep | T:209 | WIN:61.2% | SL:37.3% | Rev:1.4% | Delta:+1.5%  [base:59.8% n=930]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullRun   ->H12 | Bull Run   | T:223 | WIN:56.1% | SL:33.6% | Rev:10.3% | Delta:-1.0%  [base:57.0% n=977]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H12] Bias = MN1 Bear SWEEP
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearSweep ->H12 | Bear Sweep | T:278 | WIN:63.3% | SL:35.3% | Rev:1.4% | Delta:+0.9%  [base:62.5% n=1196]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearSweep ->H12 | Bear Run   | T:225 | WIN:56.9% | SL:27.6% | Rev:15.6% | Delta:-0.5%  [base:57.4% n=1009]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H12] Bias = MN1 Bear RUN
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearRun   ->H12 | Bear Sweep | T:254 | WIN:61.4% | SL:35.8% | Rev:2.8% | Delta:-1.0%  [base:62.5% n=1196]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearRun   ->H12 | Bear Run   | T:211 | WIN:56.4% | SL:28.9% | Rev:14.7% | Delta:-1.0%  [base:57.4% n=1009]
+2026.05.12 18:22:00.134	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H8] ALCISTA genérico (Bull Sweep o Bull Run en MN1)
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BULL  ->H8 | Bull Sweep | T:414 | WIN:59.4% | SL:38.2% | Rev:2.4% | Delta:+1.1%  [base:58.3% n=959]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BULL  ->H8 | Bull Run   | T:405 | WIN:51.9% | SL:32.6% | Rev:15.6% | Delta:+0.3%  [base:51.6% n=923]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H8] BAJISTA genérico (Bear Sweep o Bear Run en MN1)
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BEAR  ->H8 | Bear Sweep | T:479 | WIN:60.5% | SL:36.5% | Rev:2.9% | Delta:+0.6%  [base:60.0% n=1184]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BEAR  ->H8 | Bear Run   | T:370 | WIN:51.1% | SL:32.2% | Rev:16.8% | Delta:+0.5%  [base:50.6% n=886]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H8] Bias = MN1 Bull SWEEP
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullSweep ->H8 | Bull Sweep | T:198 | WIN:57.6% | SL:38.9% | Rev:3.5% | Delta:-0.7%  [base:58.3% n=959]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullSweep ->H8 | Bull Run   | T:187 | WIN:53.5% | SL:29.4% | Rev:17.1% | Delta:+1.9%  [base:51.6% n=923]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H8] Bias = MN1 Bull RUN
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 BullRun   ->H8 | Bull Sweep | T:216 | WIN:61.1% | SL:37.5% | Rev:1.4% | Delta:+2.8%  [base:58.3% n=959]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullRun   ->H8 | Bull Run   | T:218 | WIN:50.5% | SL:35.3% | Rev:14.2% | Delta:-1.1%  [base:51.6% n=923]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H8] Bias = MN1 Bear SWEEP
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearSweep ->H8 | Bear Sweep | T:251 | WIN:61.8% | SL:36.7% | Rev:1.6% | Delta:+1.8%  [base:60.0% n=1184]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1 BearSweep ->H8 | Bear Run   | T:195 | WIN:55.9% | SL:27.2% | Rev:16.9% | Delta:+5.3%  [base:50.6% n=886]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H8] Bias = MN1 Bear RUN
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearRun   ->H8 | Bear Sweep | T:228 | WIN:59.2% | SL:36.4% | Rev:4.4% | Delta:-0.8%  [base:60.0% n=1184]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 BearRun   ->H8 | Bear Run   | T:175 | WIN:45.7% | SL:37.7% | Rev:16.6% | Delta:-4.9%  [base:50.6% n=886]
+2026.05.12 18:22:00.153	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H4] ALCISTA genérico (Bull Sweep o Bull Run en MN1)
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 ANY_BULL  ->H4 | Bull Sweep | T:418 | WIN:55.7% | SL:39.2% | Rev:5.0% | Delta:-2.0%  [base:57.7% n=949]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BULL  ->H4 | Bull Run   | T:428 | WIN:50.9% | SL:30.8% | Rev:18.2% | Delta:+0.3%  [base:50.6% n=1008]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H4] BAJISTA genérico (Bear Sweep o Bear Run en MN1)
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 ANY_BEAR  ->H4 | Bear Sweep | T:500 | WIN:55.4% | SL:42.0% | Rev:2.6% | Delta:-1.4%  [base:56.8% n=1195]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 ANY_BEAR  ->H4 | Bear Run   | T:397 | WIN:52.1% | SL:29.5% | Rev:18.4% | Delta:+2.5%  [base:49.7% n=904]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H4] Bias = MN1 Bull SWEEP
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BullSweep ->H4 | Bull Sweep | T:202 | WIN:56.9% | SL:37.6% | Rev:5.4% | Delta:-0.8%  [base:57.7% n=949]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1 BullSweep ->H4 | Bull Run   | T:221 | WIN:53.8% | SL:28.5% | Rev:17.6% | Delta:+3.3%  [base:50.6% n=1008]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H4] Bias = MN1 Bull RUN
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 BullRun   ->H4 | Bull Sweep | T:216 | WIN:54.6% | SL:40.7% | Rev:4.6% | Delta:-3.1%  [base:57.7% n=949]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 BullRun   ->H4 | Bull Run   | T:207 | WIN:47.8% | SL:33.3% | Rev:18.8% | Delta:-2.8%  [base:50.6% n=1008]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H4] Bias = MN1 Bear SWEEP
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearSweep ->H4 | Bear Sweep | T:296 | WIN:55.4% | SL:41.6% | Rev:3.0% | Delta:-1.4%  [base:56.8% n=1195]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1 BearSweep ->H4 | Bear Run   | T:235 | WIN:56.2% | SL:25.5% | Rev:18.3% | Delta:+6.5%  [base:49.7% n=904]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1→H4] Bias = MN1 Bear RUN
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1 BearRun   ->H4 | Bear Sweep | T:204 | WIN:55.4% | SL:42.6% | Rev:2.0% | Delta:-1.4%  [base:56.8% n=1195]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1 BearRun   ->H4 | Bear Run   | T:162 | WIN:46.3% | SL:35.2% | Rev:18.5% | Delta:-3.4%  [base:49.7% n=904]
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	╔══════════════════════════════════════════════════════════════╗
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	║              BIAS SIMPLE: W1 → TF inferior                   ║
+2026.05.12 18:22:00.170	CRT_Analyzer_HTF_vC (EURUSD,D1)	╚══════════════════════════════════════════════════════════════╝
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→D1] ALCISTA genérico (Bull Sweep o Bull Run en W1)
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BULL  ->D1 | Bull Sweep | T:373 | WIN:58.7% | SL:40.2% | Rev:1.1% | Delta:-0.3%  [base:59.0% n=941]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BULL  ->D1 | Bull Run   | T:440 | WIN:60.0% | SL:24.5% | Rev:15.5% | Delta:+0.9%  [base:59.1% n=1060]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→D1] BAJISTA genérico (Bear Sweep o Bear Run en W1)
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BEAR  ->D1 | Bear Sweep | T:542 | WIN:58.5% | SL:39.3% | Rev:2.2% | Delta:-1.7%  [base:60.2% n=1198]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 ANY_BEAR  ->D1 | Bear Run   | T:503 | WIN:57.1% | SL:31.2% | Rev:11.7% | Delta:-2.1%  [base:59.1% n=1055]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→D1] Bias = W1 Bull SWEEP
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1 BullSweep ->D1 | Bull Sweep | T:182 | WIN:64.3% | SL:34.6% | Rev:1.1% | Delta:+5.3%  [base:59.0% n=941]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BullSweep ->D1 | Bull Run   | T:230 | WIN:54.8% | SL:28.3% | Rev:17.0% | Delta:-4.3%  [base:59.1% n=1060]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→D1] Bias = W1 Bull RUN
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1 BullRun   ->D1 | Bull Sweep | T:191 | WIN:53.4% | SL:45.5% | Rev:1.0% | Delta:-5.6%  [base:59.0% n=941]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1 BullRun   ->D1 | Bull Run   | T:210 | WIN:65.7% | SL:20.5% | Rev:13.8% | Delta:+6.7%  [base:59.1% n=1060]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→D1] Bias = W1 Bear SWEEP
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearSweep ->D1 | Bear Sweep | T:286 | WIN:59.4% | SL:38.5% | Rev:2.1% | Delta:-0.7%  [base:60.2% n=1198]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearSweep ->D1 | Bear Run   | T:278 | WIN:57.6% | SL:32.0% | Rev:10.4% | Delta:-1.6%  [base:59.1% n=1055]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→D1] Bias = W1 Bear RUN
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BearRun   ->D1 | Bear Sweep | T:256 | WIN:57.4% | SL:40.2% | Rev:2.3% | Delta:-2.8%  [base:60.2% n=1198]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BearRun   ->D1 | Bear Run   | T:225 | WIN:56.4% | SL:30.2% | Rev:13.3% | Delta:-2.7%  [base:59.1% n=1055]
+2026.05.12 18:22:00.185	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H12] ALCISTA genérico (Bull Sweep o Bull Run en W1)
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BULL  ->H12 | Bull Sweep | T:355 | WIN:60.3% | SL:37.5% | Rev:2.3% | Delta:+0.5%  [base:59.8% n=930]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BULL  ->H12 | Bull Run   | T:390 | WIN:56.9% | SL:27.7% | Rev:15.4% | Delta:-0.1%  [base:57.0% n=977]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H12] BAJISTA genérico (Bear Sweep o Bear Run en W1)
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BEAR  ->H12 | Bear Sweep | T:570 | WIN:62.3% | SL:35.1% | Rev:2.6% | Delta:-0.2%  [base:62.5% n=1196]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BEAR  ->H12 | Bear Run   | T:480 | WIN:57.9% | SL:28.3% | Rev:13.8% | Delta:+0.5%  [base:57.4% n=1009]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H12] Bias = W1 Bull SWEEP
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BullSweep ->H12 | Bull Sweep | T:177 | WIN:61.6% | SL:36.2% | Rev:2.3% | Delta:+1.8%  [base:59.8% n=930]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BullSweep ->H12 | Bull Run   | T:207 | WIN:55.6% | SL:27.1% | Rev:17.4% | Delta:-1.5%  [base:57.0% n=977]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H12] Bias = W1 Bull RUN
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BullRun   ->H12 | Bull Sweep | T:178 | WIN:59.0% | SL:38.8% | Rev:2.2% | Delta:-0.8%  [base:59.8% n=930]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BullRun   ->H12 | Bull Run   | T:183 | WIN:58.5% | SL:28.4% | Rev:13.1% | Delta:+1.5%  [base:57.0% n=977]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H12] Bias = W1 Bear SWEEP
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1 BearSweep ->H12 | Bear Sweep | T:301 | WIN:64.8% | SL:31.9% | Rev:3.3% | Delta:+2.3%  [base:62.5% n=1196]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearSweep ->H12 | Bear Run   | T:277 | WIN:58.8% | SL:28.9% | Rev:12.3% | Delta:+1.5%  [base:57.4% n=1009]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H12] Bias = W1 Bear RUN
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BearRun   ->H12 | Bear Sweep | T:269 | WIN:59.5% | SL:38.7% | Rev:1.9% | Delta:-3.0%  [base:62.5% n=1196]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearRun   ->H12 | Bear Run   | T:203 | WIN:56.7% | SL:27.6% | Rev:15.8% | Delta:-0.7%  [base:57.4% n=1009]
+2026.05.12 18:22:00.200	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H8] ALCISTA genérico (Bull Sweep o Bull Run en W1)
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BULL  ->H8 | Bull Sweep | T:341 | WIN:58.9% | SL:37.5% | Rev:3.5% | Delta:+0.7%  [base:58.3% n=959]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BULL  ->H8 | Bull Run   | T:344 | WIN:51.2% | SL:32.3% | Rev:16.6% | Delta:-0.4%  [base:51.6% n=923]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H8] BAJISTA genérico (Bear Sweep o Bear Run en W1)
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BEAR  ->H8 | Bear Sweep | T:585 | WIN:59.5% | SL:37.4% | Rev:3.1% | Delta:-0.5%  [base:60.0% n=1184]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BEAR  ->H8 | Bear Run   | T:425 | WIN:49.9% | SL:31.3% | Rev:18.8% | Delta:-0.7%  [base:50.6% n=886]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H8] Bias = W1 Bull SWEEP
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BullSweep ->H8 | Bull Sweep | T:167 | WIN:54.5% | SL:41.3% | Rev:4.2% | Delta:-3.8%  [base:58.3% n=959]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BullSweep ->H8 | Bull Run   | T:164 | WIN:49.4% | SL:32.9% | Rev:17.7% | Delta:-2.2%  [base:51.6% n=923]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H8] Bias = W1 Bull RUN
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1 BullRun   ->H8 | Bull Sweep | T:174 | WIN:63.2% | SL:33.9% | Rev:2.9% | Delta:+4.9%  [base:58.3% n=959]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BullRun   ->H8 | Bull Run   | T:180 | WIN:52.8% | SL:31.7% | Rev:15.6% | Delta:+1.2%  [base:51.6% n=923]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H8] Bias = W1 Bear SWEEP
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearSweep ->H8 | Bear Sweep | T:315 | WIN:60.0% | SL:35.6% | Rev:4.4% | Delta:+0.0%  [base:60.0% n=1184]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearSweep ->H8 | Bear Run   | T:235 | WIN:50.6% | SL:29.4% | Rev:20.0% | Delta:+0.1%  [base:50.6% n=886]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H8] Bias = W1 Bear RUN
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearRun   ->H8 | Bear Sweep | T:270 | WIN:58.9% | SL:39.6% | Rev:1.5% | Delta:-1.1%  [base:60.0% n=1184]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearRun   ->H8 | Bear Run   | T:190 | WIN:48.9% | SL:33.7% | Rev:17.4% | Delta:-1.6%  [base:50.6% n=886]
+2026.05.12 18:22:00.215	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H4] ALCISTA genérico (Bull Sweep o Bull Run en W1)
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BULL  ->H4 | Bull Sweep | T:344 | WIN:56.1% | SL:40.1% | Rev:3.8% | Delta:-1.6%  [base:57.7% n=949]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BULL  ->H4 | Bull Run   | T:358 | WIN:50.8% | SL:31.3% | Rev:17.9% | Delta:+0.2%  [base:50.6% n=1008]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H4] BAJISTA genérico (Bear Sweep o Bear Run en W1)
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 ANY_BEAR  ->H4 | Bear Sweep | T:592 | WIN:54.7% | SL:42.2% | Rev:3.0% | Delta:-2.1%  [base:56.8% n=1195]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 ANY_BEAR  ->H4 | Bear Run   | T:447 | WIN:49.4% | SL:32.0% | Rev:18.6% | Delta:-0.2%  [base:49.7% n=904]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H4] Bias = W1 Bull SWEEP
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BullSweep ->H4 | Bull Sweep | T:160 | WIN:58.1% | SL:39.4% | Rev:2.5% | Delta:+0.4%  [base:57.7% n=949]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1 BullSweep ->H4 | Bull Run   | T:172 | WIN:53.5% | SL:31.4% | Rev:15.1% | Delta:+2.9%  [base:50.6% n=1008]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H4] Bias = W1 Bull RUN
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BullRun   ->H4 | Bull Sweep | T:184 | WIN:54.3% | SL:40.8% | Rev:4.9% | Delta:-3.4%  [base:57.7% n=949]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BullRun   ->H4 | Bull Run   | T:186 | WIN:48.4% | SL:31.2% | Rev:20.4% | Delta:-2.2%  [base:50.6% n=1008]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H4] Bias = W1 Bear SWEEP
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1 BearSweep ->H4 | Bear Sweep | T:301 | WIN:54.5% | SL:42.9% | Rev:2.7% | Delta:-2.3%  [base:56.8% n=1195]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearSweep ->H4 | Bear Run   | T:233 | WIN:50.2% | SL:30.5% | Rev:19.3% | Delta:+0.5%  [base:49.7% n=904]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1→H4] Bias = W1 Bear RUN
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearRun   ->H4 | Bear Sweep | T:291 | WIN:55.0% | SL:41.6% | Rev:3.4% | Delta:-1.8%  [base:56.8% n=1195]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1 BearRun   ->H4 | Bear Run   | T:214 | WIN:48.6% | SL:33.6% | Rev:17.8% | Delta:-1.1%  [base:49.7% n=904]
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	╔══════════════════════════════════════════════════════════════╗
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	║              BIAS SIMPLE: D1 → TF inferior                   ║
+2026.05.12 18:22:00.232	CRT_Analyzer_HTF_vC (EURUSD,D1)	╚══════════════════════════════════════════════════════════════╝
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H12] ALCISTA genérico (Bull Sweep o Bull Run en D1)
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 ANY_BULL  ->H12 | Bull Sweep | T:281 | WIN:64.8% | SL:32.0% | Rev:3.2% | Delta:+5.0%  [base:59.8% n=930]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 ANY_BULL  ->H12 | Bull Run   | T:465 | WIN:56.8% | SL:29.5% | Rev:13.8% | Delta:-0.2%  [base:57.0% n=977]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H12] BAJISTA genérico (Bear Sweep o Bear Run en D1)
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 ANY_BEAR  ->H12 | Bear Sweep | T:466 | WIN:65.7% | SL:32.8% | Rev:1.5% | Delta:+3.2%  [base:62.5% n=1196]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 ANY_BEAR  ->H12 | Bear Run   | T:515 | WIN:57.1% | SL:29.7% | Rev:13.2% | Delta:-0.3%  [base:57.4% n=1009]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H12] Bias = D1 Bull SWEEP
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 BullSweep ->H12 | Bull Sweep | T:137 | WIN:62.8% | SL:33.6% | Rev:3.6% | Delta:+3.0%  [base:59.8% n=930]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BullSweep ->H12 | Bull Run   | T:200 | WIN:57.5% | SL:30.0% | Rev:12.5% | Delta:+0.5%  [base:57.0% n=977]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H12] Bias = D1 Bull RUN
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | D1 BullRun   ->H12 | Bull Sweep | T:144 | WIN:66.7% | SL:30.6% | Rev:2.8% | Delta:+6.9%  [base:59.8% n=930]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BullRun   ->H12 | Bull Run   | T:265 | WIN:56.2% | SL:29.1% | Rev:14.7% | Delta:-0.8%  [base:57.0% n=977]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H12] Bias = D1 Bear SWEEP
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | D1 BearSweep ->H12 | Bear Sweep | T:246 | WIN:67.9% | SL:29.7% | Rev:2.4% | Delta:+5.4%  [base:62.5% n=1196]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BearSweep ->H12 | Bear Run   | T:263 | WIN:57.4% | SL:29.3% | Rev:13.3% | Delta:+0.0%  [base:57.4% n=1009]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H12] Bias = D1 Bear RUN
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BearRun   ->H12 | Bear Sweep | T:220 | WIN:63.2% | SL:36.4% | Rev:0.5% | Delta:+0.7%  [base:62.5% n=1196]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BearRun   ->H12 | Bear Run   | T:252 | WIN:56.7% | SL:30.2% | Rev:13.1% | Delta:-0.6%  [base:57.4% n=1009]
+2026.05.12 18:22:00.246	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H8] ALCISTA genérico (Bull Sweep o Bull Run en D1)
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 ANY_BULL  ->H8 | Bull Sweep | T:349 | WIN:60.7% | SL:35.5% | Rev:3.7% | Delta:+2.5%  [base:58.3% n=959]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 ANY_BULL  ->H8 | Bull Run   | T:382 | WIN:54.5% | SL:31.7% | Rev:13.9% | Delta:+2.9%  [base:51.6% n=923]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H8] BAJISTA genérico (Bear Sweep o Bear Run en D1)
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 ANY_BEAR  ->H8 | Bear Sweep | T:492 | WIN:61.2% | SL:35.8% | Rev:3.0% | Delta:+1.2%  [base:60.0% n=1184]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 ANY_BEAR  ->H8 | Bear Run   | T:414 | WIN:51.4% | SL:30.4% | Rev:18.1% | Delta:+0.9%  [base:50.6% n=886]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H8] Bias = D1 Bull SWEEP
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BullSweep ->H8 | Bull Sweep | T:162 | WIN:57.4% | SL:37.7% | Rev:4.9% | Delta:-0.9%  [base:58.3% n=959]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | D1 BullSweep ->H8 | Bull Run   | T:176 | WIN:59.1% | SL:28.4% | Rev:12.5% | Delta:+7.5%  [base:51.6% n=923]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H8] Bias = D1 Bull RUN
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | D1 BullRun   ->H8 | Bull Sweep | T:187 | WIN:63.6% | SL:33.7% | Rev:2.7% | Delta:+5.3%  [base:58.3% n=959]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BullRun   ->H8 | Bull Run   | T:206 | WIN:50.5% | SL:34.5% | Rev:15.0% | Delta:-1.1%  [base:51.6% n=923]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H8] Bias = D1 Bear SWEEP
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BearSweep ->H8 | Bear Sweep | T:248 | WIN:59.7% | SL:36.7% | Rev:3.6% | Delta:-0.3%  [base:60.0% n=1184]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BearSweep ->H8 | Bear Run   | T:219 | WIN:51.6% | SL:32.0% | Rev:16.4% | Delta:+1.0%  [base:50.6% n=886]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H8] Bias = D1 Bear RUN
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 BearRun   ->H8 | Bear Sweep | T:244 | WIN:62.7% | SL:34.8% | Rev:2.5% | Delta:+2.7%  [base:60.0% n=1184]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BearRun   ->H8 | Bear Run   | T:195 | WIN:51.3% | SL:28.7% | Rev:20.0% | Delta:+0.7%  [base:50.6% n=886]
+2026.05.12 18:22:00.260	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H4] ALCISTA genérico (Bull Sweep o Bull Run en D1)
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 ANY_BULL  ->H4 | Bull Sweep | T:373 | WIN:56.8% | SL:39.7% | Rev:3.5% | Delta:-0.9%  [base:57.7% n=949]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 ANY_BULL  ->H4 | Bull Run   | T:383 | WIN:49.9% | SL:32.1% | Rev:18.0% | Delta:-0.7%  [base:50.6% n=1008]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H4] BAJISTA genérico (Bear Sweep o Bear Run en D1)
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | D1 ANY_BEAR  ->H4 | Bear Sweep | T:557 | WIN:53.1% | SL:44.7% | Rev:2.2% | Delta:-3.7%  [base:56.8% n=1195]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 ANY_BEAR  ->H4 | Bear Run   | T:390 | WIN:52.3% | SL:27.9% | Rev:19.7% | Delta:+2.6%  [base:49.7% n=904]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H4] Bias = D1 Bull SWEEP
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | D1 BullSweep ->H4 | Bull Sweep | T:157 | WIN:54.1% | SL:42.0% | Rev:3.8% | Delta:-3.6%  [base:57.7% n=949]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BullSweep ->H4 | Bull Run   | T:163 | WIN:49.7% | SL:30.7% | Rev:19.6% | Delta:-0.9%  [base:50.6% n=1008]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H4] Bias = D1 Bull RUN
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BullRun   ->H4 | Bull Sweep | T:216 | WIN:58.8% | SL:38.0% | Rev:3.2% | Delta:+1.1%  [base:57.7% n=949]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BullRun   ->H4 | Bull Run   | T:220 | WIN:50.0% | SL:33.2% | Rev:16.8% | Delta:-0.6%  [base:50.6% n=1008]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H4] Bias = D1 Bear SWEEP
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | D1 BearSweep ->H4 | Bear Sweep | T:290 | WIN:55.5% | SL:42.1% | Rev:2.4% | Delta:-1.3%  [base:56.8% n=1195]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 BearSweep ->H4 | Bear Run   | T:232 | WIN:52.2% | SL:27.2% | Rev:20.7% | Delta:+2.5%  [base:49.7% n=904]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [D1→H4] Bias = D1 Bear RUN
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | D1 BearRun   ->H4 | Bear Sweep | T:267 | WIN:50.6% | SL:47.6% | Rev:1.9% | Delta:-6.3%  [base:56.8% n=1195]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | D1 BearRun   ->H4 | Bear Run   | T:158 | WIN:52.5% | SL:29.1% | Rev:18.4% | Delta:+2.9%  [base:49.7% n=904]
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	╔══════════════════════════════════════════════════════════════╗
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	║            DOBLE BIAS: MN1 + W1 → TF inferior                ║
+2026.05.12 18:22:00.276	CRT_Analyzer_HTF_vC (EURUSD,D1)	╚══════════════════════════════════════════════════════════════╝
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] ALCISTA — ambos HTF Bull (genérico)
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->D1 BULL(any) | Bull Sweep | T:147 | WIN:59.9% | SL:39.5% | Rev:0.7% | Delta:+0.9%  [base:59.0% n=941]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1+W1->D1 BULL(any) | Bull Run   | T:198 | WIN:68.2% | SL:19.2% | Rev:12.6% | Delta:+9.1%  [base:59.1% n=1060]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] ALCISTA — MN1(SWP)+W1(SWP)
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(SWP)->D1 | Bull Sweep | T:35 | WIN:65.7% | SL:34.3% | Rev:0.0% | Delta:+6.7%  [base:59.0% n=941]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(SWP)+W1(SWP)->D1 | Bull Run   | T:39 | WIN:59.0% | SL:30.8% | Rev:10.3% | Delta:-0.1%  [base:59.1% n=1060]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] ALCISTA — MN1(SWP)+W1(RUN)
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(SWP)+W1(RUN)->D1 | Bull Sweep | T:31 | WIN:48.4% | SL:48.4% | Rev:3.2% | Delta:-10.6%  [base:59.0% n=941]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(RUN)->D1 | Bull Run   | T:40 | WIN:82.5% | SL:10.0% | Rev:7.5% | Delta:+23.4%  [base:59.1% n=1060]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] ALCISTA — MN1(RUN)+W1(SWP)
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1(RUN)+W1(SWP)->D1 | Bull Sweep | T:33 | WIN:63.6% | SL:36.4% | Rev:0.0% | Delta:+4.7%  [base:59.0% n=941]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(SWP)->D1 | Bull Run   | T:45 | WIN:60.0% | SL:22.2% | Rev:17.8% | Delta:+0.9%  [base:59.1% n=1060]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] ALCISTA — MN1(RUN)+W1(RUN)
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(RUN)->D1 | Bull Sweep | T:48 | WIN:60.4% | SL:39.6% | Rev:0.0% | Delta:+1.4%  [base:59.0% n=941]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(RUN)+W1(RUN)->D1 | Bull Run   | T:74 | WIN:70.3% | SL:16.2% | Rev:13.5% | Delta:+11.2%  [base:59.1% n=1060]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] BAJISTA — ambos HTF Bear (genérico)
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->D1 BEAR(any) | Bear Sweep | T:235 | WIN:58.7% | SL:39.6% | Rev:1.7% | Delta:-1.5%  [base:60.2% n=1198]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->D1 BEAR(any) | Bear Run   | T:212 | WIN:57.5% | SL:33.5% | Rev:9.0% | Delta:-1.6%  [base:59.1% n=1055]
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] BAJISTA — MN1(SWP)+W1(SWP)
+2026.05.12 18:22:00.293	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(SWP)+W1(SWP)->D1 | Bear Sweep | T:61 | WIN:60.7% | SL:39.3% | Rev:0.0% | Delta:+0.5%  [base:60.2% n=1198]
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(SWP)+W1(SWP)->D1 | Bear Run   | T:50 | WIN:54.0% | SL:38.0% | Rev:8.0% | Delta:-5.1%  [base:59.1% n=1055]
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] BAJISTA — MN1(SWP)+W1(RUN)
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(RUN)->D1 | Bear Sweep | T:50 | WIN:74.0% | SL:24.0% | Rev:2.0% | Delta:+13.8%  [base:60.2% n=1198]
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(SWP)+W1(RUN)->D1 | Bear Run   | T:54 | WIN:57.4% | SL:31.5% | Rev:11.1% | Delta:-1.7%  [base:59.1% n=1055]
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] BAJISTA — MN1(RUN)+W1(SWP)
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(SWP)->D1 | Bear Sweep | T:51 | WIN:54.9% | SL:39.2% | Rev:5.9% | Delta:-5.3%  [base:60.2% n=1198]
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1(RUN)+W1(SWP)->D1 | Bear Run   | T:49 | WIN:61.2% | SL:30.6% | Rev:8.2% | Delta:+2.1%  [base:59.1% n=1055]
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->D1] BAJISTA — MN1(RUN)+W1(RUN)
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(RUN)->D1 | Bear Sweep | T:73 | WIN:49.3% | SL:50.7% | Rev:0.0% | Delta:-10.9%  [base:60.2% n=1198]
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(RUN)->D1 | Bear Run   | T:59 | WIN:57.6% | SL:33.9% | Rev:8.5% | Delta:-1.5%  [base:59.1% n=1055]
+2026.05.12 18:22:00.294	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] ALCISTA — ambos HTF Bull (genérico)
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1+W1->H12 BULL(any) | Bull Sweep | T:127 | WIN:63.8% | SL:34.6% | Rev:1.6% | Delta:+4.0%  [base:59.8% n=930]
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->H12 BULL(any) | Bull Run   | T:156 | WIN:55.1% | SL:30.8% | Rev:14.1% | Delta:-1.9%  [base:57.0% n=977]
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] ALCISTA — MN1(SWP)+W1(SWP)
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(SWP)+W1(SWP)->H12 | Bull Sweep | T:25 | WIN:52.0% | SL:44.0% | Rev:4.0% | Delta:-7.8%  [base:59.8% n=930]
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(SWP)+W1(SWP)->H12 | Bull Run   | T:22 | WIN:40.9% | SL:31.8% | Rev:27.3% | Delta:-16.1%  [base:57.0% n=977]
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] ALCISTA — MN1(SWP)+W1(RUN)
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(RUN)->H12 | Bull Sweep | T:24 | WIN:66.7% | SL:29.2% | Rev:4.2% | Delta:+6.9%  [base:59.8% n=930]
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1(SWP)+W1(RUN)->H12 | Bull Run   | T:36 | WIN:61.1% | SL:22.2% | Rev:16.7% | Delta:+4.1%  [base:57.0% n=977]
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] ALCISTA — MN1(RUN)+W1(SWP)
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(SWP)->H12 | Bull Sweep | T:36 | WIN:61.1% | SL:38.9% | Rev:0.0% | Delta:+1.3%  [base:59.8% n=930]
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(SWP)->H12 | Bull Run   | T:40 | WIN:45.0% | SL:37.5% | Rev:17.5% | Delta:-12.0%  [base:57.0% n=977]
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] ALCISTA — MN1(RUN)+W1(RUN)
+2026.05.12 18:22:00.312	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(RUN)+W1(RUN)->H12 | Bull Sweep | T:42 | WIN:71.4% | SL:28.6% | Rev:0.0% | Delta:+11.6%  [base:59.8% n=930]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(RUN)+W1(RUN)->H12 | Bull Run   | T:58 | WIN:63.8% | SL:31.0% | Rev:5.2% | Delta:+6.8%  [base:57.0% n=977]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] BAJISTA — ambos HTF Bear (genérico)
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->H12 BEAR(any) | Bear Sweep | T:257 | WIN:62.3% | SL:35.8% | Rev:1.9% | Delta:-0.2%  [base:62.5% n=1196]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->H12 BEAR(any) | Bear Run   | T:209 | WIN:58.4% | SL:27.3% | Rev:14.4% | Delta:+1.0%  [base:57.4% n=1009]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] BAJISTA — MN1(SWP)+W1(SWP)
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(SWP)->H12 | Bear Sweep | T:71 | WIN:70.4% | SL:28.2% | Rev:1.4% | Delta:+8.0%  [base:62.5% n=1196]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(SWP)+W1(SWP)->H12 | Bear Run   | T:52 | WIN:55.8% | SL:26.9% | Rev:17.3% | Delta:-1.6%  [base:57.4% n=1009]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] BAJISTA — MN1(SWP)+W1(RUN)
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1(SWP)+W1(RUN)->H12 | Bear Sweep | T:67 | WIN:58.2% | SL:37.3% | Rev:4.5% | Delta:-4.2%  [base:62.5% n=1196]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1(SWP)+W1(RUN)->H12 | Bear Run   | T:58 | WIN:62.1% | SL:20.7% | Rev:17.2% | Delta:+4.7%  [base:57.4% n=1009]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] BAJISTA — MN1(RUN)+W1(SWP)
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1(RUN)+W1(SWP)->H12 | Bear Sweep | T:58 | WIN:58.6% | SL:39.7% | Rev:1.7% | Delta:-3.8%  [base:62.5% n=1196]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(SWP)->H12 | Bear Run   | T:55 | WIN:58.2% | SL:32.7% | Rev:9.1% | Delta:+0.8%  [base:57.4% n=1009]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H12] BAJISTA — MN1(RUN)+W1(RUN)
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(RUN)->H12 | Bear Sweep | T:61 | WIN:60.7% | SL:39.3% | Rev:0.0% | Delta:-1.8%  [base:62.5% n=1196]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(RUN)->H12 | Bear Run   | T:44 | WIN:56.8% | SL:29.5% | Rev:13.6% | Delta:-0.6%  [base:57.4% n=1009]
+2026.05.12 18:22:00.313	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] ALCISTA — ambos HTF Bull (genérico)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->H8 BULL(any) | Bull Sweep | T:125 | WIN:60.0% | SL:37.6% | Rev:2.4% | Delta:+1.7%  [base:58.3% n=959]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->H8 BULL(any) | Bull Run   | T:134 | WIN:50.7% | SL:32.1% | Rev:17.2% | Delta:-0.8%  [base:51.6% n=923]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] ALCISTA — MN1(SWP)+W1(SWP)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(SWP)+W1(SWP)->H8 | Bull Sweep | T:21 | WIN:42.9% | SL:52.4% | Rev:4.8% | Delta:-15.4%  [base:58.3% n=959]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(SWP)->H8 | Bull Run   | T:15 | WIN:66.7% | SL:20.0% | Rev:13.3% | Delta:+15.1%  [base:51.6% n=923]  *** MUESTRA PEQUEÑA (n<20) ***
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] ALCISTA — MN1(SWP)+W1(RUN)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(RUN)->H8 | Bull Sweep | T:34 | WIN:64.7% | SL:35.3% | Rev:0.0% | Delta:+6.4%  [base:58.3% n=959]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(SWP)+W1(RUN)->H8 | Bull Run   | T:37 | WIN:51.4% | SL:27.0% | Rev:21.6% | Delta:-0.2%  [base:51.6% n=923]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] ALCISTA — MN1(RUN)+W1(SWP)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(SWP)->H8 | Bull Sweep | T:35 | WIN:60.0% | SL:37.1% | Rev:2.9% | Delta:+1.7%  [base:58.3% n=959]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(SWP)->H8 | Bull Run   | T:31 | WIN:29.0% | SL:38.7% | Rev:32.3% | Delta:-22.5%  [base:51.6% n=923]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] ALCISTA — MN1(RUN)+W1(RUN)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(RUN)+W1(RUN)->H8 | Bull Sweep | T:35 | WIN:65.7% | SL:31.4% | Rev:2.9% | Delta:+7.4%  [base:58.3% n=959]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(RUN)+W1(RUN)->H8 | Bull Run   | T:51 | WIN:58.8% | SL:35.3% | Rev:5.9% | Delta:+7.3%  [base:51.6% n=923]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] BAJISTA — ambos HTF Bear (genérico)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->H8 BEAR(any) | Bear Sweep | T:253 | WIN:60.5% | SL:36.0% | Rev:3.6% | Delta:+0.5%  [base:60.0% n=1184]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->H8 BEAR(any) | Bear Run   | T:188 | WIN:50.5% | SL:34.0% | Rev:15.4% | Delta:-0.0%  [base:50.6% n=886]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] BAJISTA — MN1(SWP)+W1(SWP)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1(SWP)+W1(SWP)->H8 | Bear Sweep | T:74 | WIN:56.8% | SL:40.5% | Rev:2.7% | Delta:-3.2%  [base:60.0% n=1184]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(SWP)->H8 | Bear Run   | T:52 | WIN:59.6% | SL:25.0% | Rev:15.4% | Delta:+9.1%  [base:50.6% n=886]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] BAJISTA — MN1(SWP)+W1(RUN)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(RUN)->H8 | Bear Sweep | T:66 | WIN:66.7% | SL:31.8% | Rev:1.5% | Delta:+6.7%  [base:60.0% n=1184]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1(SWP)+W1(RUN)->H8 | Bear Run   | T:53 | WIN:52.8% | SL:30.2% | Rev:17.0% | Delta:+2.3%  [base:50.6% n=886]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] BAJISTA — MN1(RUN)+W1(SWP)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1(RUN)+W1(SWP)->H8 | Bear Sweep | T:52 | WIN:63.5% | SL:26.9% | Rev:9.6% | Delta:+3.5%  [base:60.0% n=1184]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1(RUN)+W1(SWP)->H8 | Bear Run   | T:48 | WIN:47.9% | SL:35.4% | Rev:16.7% | Delta:-2.6%  [base:50.6% n=886]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H8] BAJISTA — MN1(RUN)+W1(RUN)
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1(RUN)+W1(RUN)->H8 | Bear Sweep | T:61 | WIN:55.7% | SL:42.6% | Rev:1.6% | Delta:-4.2%  [base:60.0% n=1184]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(RUN)->H8 | Bear Run   | T:35 | WIN:37.1% | SL:51.4% | Rev:11.4% | Delta:-13.4%  [base:50.6% n=886]
+2026.05.12 18:22:00.331	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] ALCISTA — ambos HTF Bull (genérico)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1+W1->H4 BULL(any) | Bull Sweep | T:145 | WIN:55.2% | SL:39.3% | Rev:5.5% | Delta:-2.6%  [base:57.7% n=949]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1->H4 BULL(any) | Bull Run   | T:151 | WIN:49.7% | SL:32.5% | Rev:17.9% | Delta:-0.9%  [base:50.6% n=1008]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] ALCISTA — MN1(SWP)+W1(SWP)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(SWP)+W1(SWP)->H4 | Bull Sweep | T:22 | WIN:50.0% | SL:45.5% | Rev:4.5% | Delta:-7.7%  [base:57.7% n=949]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(SWP)->H4 | Bull Run   | T:14 | WIN:57.1% | SL:28.6% | Rev:14.3% | Delta:+6.5%  [base:50.6% n=1008]  *** MUESTRA PEQUEÑA (n<20) ***
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] ALCISTA — MN1(SWP)+W1(RUN)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(SWP)+W1(RUN)->H4 | Bull Sweep | T:50 | WIN:58.0% | SL:34.0% | Rev:8.0% | Delta:+0.3%  [base:57.7% n=949]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1(SWP)+W1(RUN)->H4 | Bull Run   | T:51 | WIN:47.1% | SL:31.4% | Rev:21.6% | Delta:-3.5%  [base:50.6% n=1008]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] ALCISTA — MN1(RUN)+W1(SWP)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(SWP)->H4 | Bull Sweep | T:44 | WIN:52.3% | SL:40.9% | Rev:6.8% | Delta:-5.5%  [base:57.7% n=949]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(SWP)->H4 | Bull Run   | T:40 | WIN:52.5% | SL:30.0% | Rev:17.5% | Delta:+1.9%  [base:50.6% n=1008]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] ALCISTA — MN1(RUN)+W1(RUN)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(RUN)->H4 | Bull Sweep | T:29 | WIN:58.6% | SL:41.4% | Rev:0.0% | Delta:+0.9%  [base:57.7% n=949]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1(RUN)+W1(RUN)->H4 | Bull Run   | T:46 | WIN:47.8% | SL:37.0% | Rev:15.2% | Delta:-2.8%  [base:50.6% n=1008]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] BAJISTA — ambos HTF Bear (genérico)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1+W1->H4 BEAR(any) | Bear Sweep | T:249 | WIN:53.8% | SL:43.8% | Rev:2.4% | Delta:-3.0%  [base:56.8% n=1195]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1+W1->H4 BEAR(any) | Bear Run   | T:205 | WIN:52.7% | SL:29.3% | Rev:18.0% | Delta:+3.0%  [base:49.7% n=904]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] BAJISTA — MN1(SWP)+W1(SWP)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1(SWP)+W1(SWP)->H4 | Bear Sweep | T:79 | WIN:51.9% | SL:44.3% | Rev:3.8% | Delta:-4.9%  [base:56.8% n=1195]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(SWP)->H4 | Bear Run   | T:60 | WIN:60.0% | SL:21.7% | Rev:18.3% | Delta:+10.3%  [base:49.7% n=904]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] BAJISTA — MN1(SWP)+W1(RUN)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | MN1(SWP)+W1(RUN)->H4 | Bear Sweep | T:84 | WIN:59.5% | SL:39.3% | Rev:1.2% | Delta:+2.7%  [base:56.8% n=1195]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1(SWP)+W1(RUN)->H4 | Bear Run   | T:72 | WIN:58.3% | SL:25.0% | Rev:16.7% | Delta:+8.7%  [base:49.7% n=904]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] BAJISTA — MN1(RUN)+W1(SWP)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(SWP)->H4 | Bear Sweep | T:49 | WIN:44.9% | SL:55.1% | Rev:0.0% | Delta:-11.9%  [base:56.8% n=1195]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(SWP)->H4 | Bear Run   | T:37 | WIN:37.8% | SL:40.5% | Rev:21.6% | Delta:-11.8%  [base:49.7% n=904]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1->H4] BAJISTA — MN1(RUN)+W1(RUN)
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1(RUN)+W1(RUN)->H4 | Bear Sweep | T:37 | WIN:56.8% | SL:37.8% | Rev:5.4% | Delta:-0.1%  [base:56.8% n=1195]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1(RUN)+W1(RUN)->H4 | Bear Run   | T:36 | WIN:44.4% | SL:38.9% | Rev:16.7% | Delta:-5.2%  [base:49.7% n=904]
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	╔══════════════════════════════════════════════════════════════╗
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	║            DOBLE BIAS: W1 + D1 → TF inferior                 ║
+2026.05.12 18:22:00.348	CRT_Analyzer_HTF_vC (EURUSD,D1)	╚══════════════════════════════════════════════════════════════╝
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] ALCISTA — ambos HTF Bull (genérico)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1+D1->H12 BULL(any) | Bull Sweep | T:122 | WIN:68.0% | SL:28.7% | Rev:3.3% | Delta:+8.2%  [base:59.8% n=930]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1+D1->H12 BULL(any) | Bull Run   | T:212 | WIN:56.6% | SL:28.8% | Rev:14.6% | Delta:-0.4%  [base:57.0% n=977]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] ALCISTA — W1(SWP)+D1(SWP)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(SWP)->H12 | Bull Sweep | T:23 | WIN:69.6% | SL:26.1% | Rev:4.3% | Delta:+9.8%  [base:59.8% n=930]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1(SWP)+D1(SWP)->H12 | Bull Run   | T:45 | WIN:60.0% | SL:26.7% | Rev:13.3% | Delta:+3.0%  [base:57.0% n=977]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] ALCISTA — W1(SWP)+D1(RUN)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(RUN)->H12 | Bull Sweep | T:39 | WIN:71.8% | SL:23.1% | Rev:5.1% | Delta:+12.0%  [base:59.8% n=930]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1(SWP)+D1(RUN)->H12 | Bull Run   | T:65 | WIN:47.7% | SL:29.2% | Rev:23.1% | Delta:-9.3%  [base:57.0% n=977]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] ALCISTA — W1(RUN)+D1(SWP)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1(RUN)+D1(SWP)->H12 | Bull Sweep | T:27 | WIN:63.0% | SL:37.0% | Rev:0.0% | Delta:+3.2%  [base:59.8% n=930]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1(RUN)+D1(SWP)->H12 | Bull Run   | T:35 | WIN:54.3% | SL:40.0% | Rev:5.7% | Delta:-2.7%  [base:57.0% n=977]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] ALCISTA — W1(RUN)+D1(RUN)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(RUN)+D1(RUN)->H12 | Bull Sweep | T:33 | WIN:66.7% | SL:30.3% | Rev:3.0% | Delta:+6.9%  [base:59.8% n=930]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(RUN)+D1(RUN)->H12 | Bull Run   | T:67 | WIN:64.2% | SL:23.9% | Rev:11.9% | Delta:+7.2%  [base:57.0% n=977]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] BAJISTA — ambos HTF Bear (genérico)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1+D1->H12 BEAR(any) | Bear Sweep | T:234 | WIN:67.9% | SL:29.5% | Rev:2.6% | Delta:+5.5%  [base:62.5% n=1196]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1+D1->H12 BEAR(any) | Bear Run   | T:245 | WIN:56.7% | SL:29.4% | Rev:13.9% | Delta:-0.6%  [base:57.4% n=1009]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] BAJISTA — W1(SWP)+D1(SWP)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(SWP)->H12 | Bear Sweep | T:66 | WIN:68.2% | SL:27.3% | Rev:4.5% | Delta:+5.7%  [base:62.5% n=1196]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(SWP)->H12 | Bear Run   | T:60 | WIN:63.3% | SL:28.3% | Rev:8.3% | Delta:+5.9%  [base:57.4% n=1009]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] BAJISTA — W1(SWP)+D1(RUN)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(RUN)->H12 | Bear Sweep | T:63 | WIN:74.6% | SL:25.4% | Rev:0.0% | Delta:+12.1%  [base:62.5% n=1196]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(SWP)+D1(RUN)->H12 | Bear Run   | T:84 | WIN:56.0% | SL:28.6% | Rev:15.5% | Delta:-1.4%  [base:57.4% n=1009]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] BAJISTA — W1(RUN)+D1(SWP)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1(RUN)+D1(SWP)->H12 | Bear Sweep | T:45 | WIN:66.7% | SL:28.9% | Rev:4.4% | Delta:+4.2%  [base:62.5% n=1196]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1(RUN)+D1(SWP)->H12 | Bear Run   | T:50 | WIN:52.0% | SL:30.0% | Rev:18.0% | Delta:-5.4%  [base:57.4% n=1009]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H12] BAJISTA — W1(RUN)+D1(RUN)
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(RUN)+D1(RUN)->H12 | Bear Sweep | T:60 | WIN:61.7% | SL:36.7% | Rev:1.7% | Delta:-0.8%  [base:62.5% n=1196]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1(RUN)+D1(RUN)->H12 | Bear Run   | T:51 | WIN:54.9% | SL:31.4% | Rev:13.7% | Delta:-2.5%  [base:57.4% n=1009]
+2026.05.12 18:22:00.363	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] ALCISTA — ambos HTF Bull (genérico)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1+D1->H8 BULL(any) | Bull Sweep | T:139 | WIN:63.3% | SL:33.1% | Rev:3.6% | Delta:+5.0%  [base:58.3% n=959]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1+D1->H8 BULL(any) | Bull Run   | T:159 | WIN:50.9% | SL:33.3% | Rev:15.7% | Delta:-0.6%  [base:51.6% n=923]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] ALCISTA — W1(SWP)+D1(SWP)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(SWP)+D1(SWP)->H8 | Bull Sweep | T:26 | WIN:57.7% | SL:34.6% | Rev:7.7% | Delta:-0.6%  [base:58.3% n=959]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1(SWP)+D1(SWP)->H8 | Bull Run   | T:37 | WIN:48.6% | SL:29.7% | Rev:21.6% | Delta:-2.9%  [base:51.6% n=923]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] ALCISTA — W1(SWP)+D1(RUN)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(RUN)->H8 | Bull Sweep | T:43 | WIN:65.1% | SL:32.6% | Rev:2.3% | Delta:+6.8%  [base:58.3% n=959]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1(SWP)+D1(RUN)->H8 | Bull Run   | T:44 | WIN:47.7% | SL:31.8% | Rev:20.5% | Delta:-3.8%  [base:51.6% n=923]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] ALCISTA — W1(RUN)+D1(SWP)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1(RUN)+D1(SWP)->H8 | Bull Sweep | T:30 | WIN:53.3% | SL:43.3% | Rev:3.3% | Delta:-5.0%  [base:58.3% n=959]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(RUN)+D1(SWP)->H8 | Bull Run   | T:30 | WIN:53.3% | SL:43.3% | Rev:3.3% | Delta:+1.8%  [base:51.6% n=923]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] ALCISTA — W1(RUN)+D1(RUN)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(RUN)+D1(RUN)->H8 | Bull Sweep | T:40 | WIN:72.5% | SL:25.0% | Rev:2.5% | Delta:+14.2%  [base:58.3% n=959]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1(RUN)+D1(RUN)->H8 | Bull Run   | T:48 | WIN:54.2% | SL:31.3% | Rev:14.6% | Delta:+2.6%  [base:51.6% n=923]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] BAJISTA — ambos HTF Bear (genérico)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1+D1->H8 BEAR(any) | Bear Sweep | T:252 | WIN:61.1% | SL:34.9% | Rev:4.0% | Delta:+1.1%  [base:60.0% n=1184]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1+D1->H8 BEAR(any) | Bear Run   | T:204 | WIN:49.5% | SL:29.9% | Rev:20.6% | Delta:-1.1%  [base:50.6% n=886]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] BAJISTA — W1(SWP)+D1(SWP)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1(SWP)+D1(SWP)->H8 | Bear Sweep | T:63 | WIN:55.6% | SL:36.5% | Rev:7.9% | Delta:-4.4%  [base:60.0% n=1184]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(SWP)+D1(SWP)->H8 | Bear Run   | T:52 | WIN:50.0% | SL:25.0% | Rev:25.0% | Delta:-0.6%  [base:50.6% n=886]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] BAJISTA — W1(SWP)+D1(RUN)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1(SWP)+D1(RUN)->H8 | Bear Sweep | T:79 | WIN:62.0% | SL:35.4% | Rev:2.5% | Delta:+2.1%  [base:60.0% n=1184]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1(SWP)+D1(RUN)->H8 | Bear Run   | T:66 | WIN:47.0% | SL:27.3% | Rev:25.8% | Delta:-3.6%  [base:50.6% n=886]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] BAJISTA — W1(RUN)+D1(SWP)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(RUN)+D1(SWP)->H8 | Bear Sweep | T:48 | WIN:60.4% | SL:33.3% | Rev:6.3% | Delta:+0.5%  [base:60.0% n=1184]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1(RUN)+D1(SWP)->H8 | Bear Run   | T:41 | WIN:43.9% | SL:46.3% | Rev:9.8% | Delta:-6.7%  [base:50.6% n=886]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H8] BAJISTA — W1(RUN)+D1(RUN)
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(RUN)+D1(RUN)->H8 | Bear Sweep | T:62 | WIN:66.1% | SL:33.9% | Rev:0.0% | Delta:+6.2%  [base:60.0% n=1184]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(RUN)+D1(RUN)->H8 | Bear Run   | T:45 | WIN:57.8% | SL:24.4% | Rev:17.8% | Delta:+7.2%  [base:50.6% n=886]
+2026.05.12 18:22:00.379	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] ALCISTA — ambos HTF Bull (genérico)
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1+D1->H4 BULL(any) | Bull Sweep | T:143 | WIN:58.7% | SL:39.9% | Rev:1.4% | Delta:+1.0%  [base:57.7% n=949]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1+D1->H4 BULL(any) | Bull Run   | T:153 | WIN:49.7% | SL:34.0% | Rev:16.3% | Delta:-0.9%  [base:50.6% n=1008]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] ALCISTA — W1(SWP)+D1(SWP)
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(SWP)+D1(SWP)->H4 | Bull Sweep | T:22 | WIN:59.1% | SL:40.9% | Rev:0.0% | Delta:+1.3%  [base:57.7% n=949]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(SWP)->H4 | Bull Run   | T:34 | WIN:55.9% | SL:26.5% | Rev:17.6% | Delta:+5.3%  [base:50.6% n=1008]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] ALCISTA — W1(SWP)+D1(RUN)
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(RUN)->H4 | Bull Sweep | T:48 | WIN:66.7% | SL:33.3% | Rev:0.0% | Delta:+8.9%  [base:57.7% n=949]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(SWP)+D1(RUN)->H4 | Bull Run   | T:50 | WIN:52.0% | SL:42.0% | Rev:6.0% | Delta:+1.4%  [base:50.6% n=1008]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] ALCISTA — W1(RUN)+D1(SWP)
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(RUN)+D1(SWP)->H4 | Bull Sweep | T:30 | WIN:56.7% | SL:40.0% | Rev:3.3% | Delta:-1.1%  [base:57.7% n=949]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1(RUN)+D1(SWP)->H4 | Bull Run   | T:33 | WIN:36.4% | SL:33.3% | Rev:30.3% | Delta:-14.2%  [base:50.6% n=1008]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] ALCISTA — W1(RUN)+D1(RUN)
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1(RUN)+D1(RUN)->H4 | Bull Sweep | T:43 | WIN:51.2% | SL:46.5% | Rev:2.3% | Delta:-6.6%  [base:57.7% n=949]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [++  ] | W1(RUN)+D1(RUN)->H4 | Bull Run   | T:36 | WIN:52.8% | SL:30.6% | Rev:16.7% | Delta:+2.2%  [base:50.6% n=1008]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] BAJISTA — ambos HTF Bear (genérico)
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1+D1->H4 BEAR(any) | Bear Sweep | T:279 | WIN:49.1% | SL:48.7% | Rev:2.2% | Delta:-7.7%  [base:56.8% n=1195]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1+D1->H4 BEAR(any) | Bear Run   | T:177 | WIN:51.4% | SL:29.4% | Rev:19.2% | Delta:+1.7%  [base:49.7% n=904]
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] BAJISTA — W1(SWP)+D1(SWP)
+2026.05.12 18:22:00.395	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1(SWP)+D1(SWP)->H4 | Bear Sweep | T:65 | WIN:40.0% | SL:58.5% | Rev:1.5% | Delta:-16.8%  [base:56.8% n=1195]
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(SWP)+D1(SWP)->H4 | Bear Run   | T:41 | WIN:56.1% | SL:19.5% | Rev:24.4% | Delta:+6.4%  [base:49.7% n=904]
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] BAJISTA — W1(SWP)+D1(RUN)
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | W1(SWP)+D1(RUN)->H4 | Bear Sweep | T:90 | WIN:54.4% | SL:44.4% | Rev:1.1% | Delta:-2.4%  [base:56.8% n=1195]
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(SWP)+D1(RUN)->H4 | Bear Run   | T:55 | WIN:49.1% | SL:30.9% | Rev:20.0% | Delta:-0.6%  [base:49.7% n=904]
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] BAJISTA — W1(RUN)+D1(SWP)
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | W1(RUN)+D1(SWP)->H4 | Bear Sweep | T:60 | WIN:58.3% | SL:36.7% | Rev:5.0% | Delta:+1.5%  [base:56.8% n=1195]
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | W1(RUN)+D1(SWP)->H4 | Bear Run   | T:47 | WIN:55.3% | SL:31.9% | Rev:12.8% | Delta:+5.7%  [base:49.7% n=904]
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [W1+D1->H4] BAJISTA — W1(RUN)+D1(RUN)
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1(RUN)+D1(RUN)->H4 | Bear Sweep | T:64 | WIN:42.2% | SL:56.3% | Rev:1.6% | Delta:-14.6%  [base:56.8% n=1195]
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | W1(RUN)+D1(RUN)->H4 | Bear Run   | T:34 | WIN:44.1% | SL:35.3% | Rev:20.6% | Delta:-5.6%  [base:49.7% n=904]
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	╔══════════════════════════════════════════════════════════════╗
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	║        TRIPLE BIAS: MN1 + W1 + D1 → TF inferior              ║
+2026.05.12 18:22:00.396	CRT_Analyzer_HTF_vC (EURUSD,D1)	╚══════════════════════════════════════════════════════════════╝
+2026.05.12 18:22:00.416	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1+D1->H12] ALCISTA (3 TF Bull alineados)
+2026.05.12 18:22:00.416	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1+W1+D1->H12 BULL | Bull Sweep | T:43 | WIN:67.4% | SL:30.2% | Rev:2.3% | Delta:+7.7%  [base:59.8% n=930]
+2026.05.12 18:22:00.416	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1+W1+D1->H12 BULL | Bull Run   | T:87 | WIN:52.9% | SL:35.6% | Rev:11.5% | Delta:-4.1%  [base:57.0% n=977]
+2026.05.12 18:22:00.416	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1+D1->H12] BAJISTA (3 TF Bear alineados)
+2026.05.12 18:22:00.416	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1+W1+D1->H12 BEAR | Bear Sweep | T:107 | WIN:68.2% | SL:29.0% | Rev:2.8% | Delta:+5.8%  [base:62.5% n=1196]
+2026.05.12 18:22:00.416	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1+D1->H12 BEAR | Bear Run   | T:110 | WIN:57.3% | SL:28.2% | Rev:14.5% | Delta:-0.1%  [base:57.4% n=1009]
+2026.05.12 18:22:00.416	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.437	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1+D1->H8] ALCISTA (3 TF Bull alineados)
+2026.05.12 18:22:00.437	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1+W1+D1->H8 BULL | Bull Sweep | T:43 | WIN:65.1% | SL:30.2% | Rev:4.7% | Delta:+6.8%  [base:58.3% n=959]
+2026.05.12 18:22:00.437	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1+W1+D1->H8 BULL | Bull Run   | T:57 | WIN:42.1% | SL:36.8% | Rev:21.1% | Delta:-9.5%  [base:51.6% n=923]
+2026.05.12 18:22:00.437	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1+D1->H8] BAJISTA (3 TF Bear alineados)
+2026.05.12 18:22:00.437	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1+W1+D1->H8 BEAR | Bear Sweep | T:105 | WIN:67.6% | SL:27.6% | Rev:4.8% | Delta:+7.7%  [base:60.0% n=1184]
+2026.05.12 18:22:00.437	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [ =  ] | MN1+W1+D1->H8 BEAR | Bear Run   | T:88 | WIN:50.0% | SL:34.1% | Rev:15.9% | Delta:-0.6%  [base:50.6% n=886]
+2026.05.12 18:22:00.437	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1+D1->H4] ALCISTA (3 TF Bull alineados)
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1+W1+D1->H4 BULL | Bull Sweep | T:55 | WIN:54.5% | SL:45.5% | Rev:0.0% | Delta:-3.2%  [base:57.7% n=949]
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--  ] | MN1+W1+D1->H4 BULL | Bull Run   | T:59 | WIN:47.5% | SL:32.2% | Rev:20.3% | Delta:-3.1%  [base:50.6% n=1008]
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	  ·· [MN1+W1+D1->H4] BAJISTA (3 TF Bear alineados)
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [--- ] | MN1+W1+D1->H4 BEAR | Bear Sweep | T:114 | WIN:50.0% | SL:49.1% | Rev:0.9% | Delta:-6.8%  [base:56.8% n=1195]
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	  [+++ ] | MN1+W1+D1->H4 BEAR | Bear Run   | T:76 | WIN:57.9% | SL:25.0% | Rev:17.1% | Delta:+8.2%  [base:49.7% n=904]
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	══════════════════════════════════════════════════════════════════
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	 FIN DEL ANÁLISIS V2 | EURUSD
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	 Lectura: Delta positivo = el filtro HTF MEJORA el win rate en LTF
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	 Delta negativo = el filtro HTF EMPEORA o no aporta nada
+2026.05.12 18:22:00.459	CRT_Analyzer_HTF_vC (EURUSD,D1)	══════════════════════════════════════════════════════════════════

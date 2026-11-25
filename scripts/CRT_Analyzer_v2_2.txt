@@ -1,0 +1,521 @@
+2026.05.16 21:58:22.682	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.682	CRT_Analyzer_v2.1 (EURUSD,H4)	 INICIANDO TEST CRT: REINICIOS (EURUSD)
+2026.05.16 21:58:22.682	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	 RESULTADOS DE DUELO DE REINICIOS: Mensual (MN1)
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS ALCISTAS
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 77 | TP Limpio: 34 | SL Limpio: 32
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 11 operaciones
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 7 (63.6%)
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 4 (36.4%)
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS BAJISTAS
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 65 | TP Limpio: 20 | SL Limpio: 24
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 20 operaciones
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 7 (35.0%)
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 9 (45.0%)
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 4
+2026.05.16 21:58:22.683	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	 RESULTADOS DE DUELO DE REINICIOS: Semanal (W1)
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS ALCISTAS
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 302 | TP Limpio: 141 | SL Limpio: 107
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 54 operaciones
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 20 (37.0%)
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 29 (53.7%)
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 5
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS BAJISTAS
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 273 | TP Limpio: 95 | SL Limpio: 117
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 61 operaciones
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 23 (37.7%)
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 31 (50.8%)
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 7
+2026.05.16 21:58:22.684	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	 RESULTADOS DE DUELO DE REINICIOS: Diario (D1)
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS ALCISTAS
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 608 | TP Limpio: 258 | SL Limpio: 231
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 119 operaciones
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 52 (43.7%)
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 54 (45.4%)
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS BAJISTAS
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 493 | TP Limpio: 164 | SL Limpio: 214
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 115 operaciones
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 47 (40.9%)
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 49 (42.6%)
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 19
+2026.05.16 21:58:22.686	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	 RESULTADOS DE DUELO DE REINICIOS: 12 Horas (H12)
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS ALCISTAS
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 595 | TP Limpio: 240 | SL Limpio: 245
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 110 operaciones
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 47 (42.7%)
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 48 (43.6%)
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 15
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.688	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS BAJISTAS
+2026.05.16 21:58:22.689	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 458 | TP Limpio: 143 | SL Limpio: 212
+2026.05.16 21:58:22.689	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 103 operaciones
+2026.05.16 21:58:22.689	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 43 (41.7%)
+2026.05.16 21:58:22.689	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 46 (44.7%)
+2026.05.16 21:58:22.689	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 14
+2026.05.16 21:58:22.689	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	 RESULTADOS DE DUELO DE REINICIOS: 8 Horas (H8)
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS ALCISTAS
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 554 | TP Limpio: 222 | SL Limpio: 222
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 109 operaciones
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 48 (44.0%)
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 45 (41.3%)
+2026.05.16 21:58:22.690	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 16
+2026.05.16 21:58:22.691	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.691	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS BAJISTAS
+2026.05.16 21:58:22.691	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 408 | TP Limpio: 105 | SL Limpio: 205
+2026.05.16 21:58:22.691	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 98 operaciones
+2026.05.16 21:58:22.691	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 35 (35.7%)
+2026.05.16 21:58:22.691	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 40 (40.8%)
+2026.05.16 21:58:22.691	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 23
+2026.05.16 21:58:22.691	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	 RESULTADOS DE DUELO DE REINICIOS: 4 Horas (H4)
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS ALCISTAS
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 473 | TP Limpio: 212 | SL Limpio: 165
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 94 operaciones
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 39 (41.5%)
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 40 (42.6%)
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 15
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	>>> RANGOS BAJISTAS
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	Total Activados: 405 | TP Limpio: 142 | SL Limpio: 182
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	--> SUFRIERON REINICIO: 81 operaciones
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Sobrevive el Inicial (Llega a TP): 36 (44.4%)
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Gana el Reinicio (Descarta Inicial): 32 (39.5%)
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.16 21:58:22.692	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.17 11:05:39.455	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.456	CRT_Analyzer_v2.1 (GBPUSD,D1)	 INICIANDO TEST CRT: REINICIOS (GBPUSD)
+2026.05.17 11:05:39.456	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: Mensual (MN1)
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 30 | TP Limpio: 14 | SL Limpio: 12
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 4 operaciones
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 0 (0.0%)
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 3 (75.0%)
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 1
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 23 | TP Limpio: 7 | SL Limpio: 11
+2026.05.17 11:05:39.471	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 4 operaciones
+2026.05.17 11:05:39.472	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 3 (75.0%)
+2026.05.17 11:05:39.472	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 1 (25.0%)
+2026.05.17 11:05:39.472	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.17 11:05:39.472	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: Semanal (W1)
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 125 | TP Limpio: 64 | SL Limpio: 48
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 13 operaciones
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 4 (30.8%)
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 6 (46.2%)
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 3
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 105 | TP Limpio: 39 | SL Limpio: 46
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 20 operaciones
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 7 (35.0%)
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 10 (50.0%)
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 3
+2026.05.17 11:05:39.487	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: Diario (D1)
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 570 | TP Limpio: 236 | SL Limpio: 237
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 97 operaciones
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 41 (42.3%)
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 48 (49.5%)
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 8
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 525 | TP Limpio: 160 | SL Limpio: 250
+2026.05.17 11:05:39.488	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 115 operaciones
+2026.05.17 11:05:39.489	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 54 (47.0%)
+2026.05.17 11:05:39.489	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 46 (40.0%)
+2026.05.17 11:05:39.489	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 15
+2026.05.17 11:05:39.489	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: 12 Horas (H12)
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 539 | TP Limpio: 232 | SL Limpio: 213
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 94 operaciones
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 34 (36.2%)
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 48 (51.1%)
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 12
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 467 | TP Limpio: 170 | SL Limpio: 211
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 86 operaciones
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 33 (38.4%)
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 39 (45.3%)
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 14
+2026.05.17 11:05:39.507	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: 8 Horas (H8)
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 520 | TP Limpio: 220 | SL Limpio: 211
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 89 operaciones
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 36 (40.4%)
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 39 (43.8%)
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 14
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 450 | TP Limpio: 120 | SL Limpio: 223
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 107 operaciones
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 62 (57.9%)
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 32 (29.9%)
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.17 11:05:39.528	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: 4 Horas (H4)
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 487 | TP Limpio: 205 | SL Limpio: 178
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 104 operaciones
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 46 (44.2%)
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 38 (36.5%)
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 20
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	Total Activados: 411 | TP Limpio: 144 | SL Limpio: 170
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	--> SUFRIERON REINICIO: 97 operaciones
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 44 (45.4%)
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 40 (41.2%)
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.17 11:05:39.545	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:05:46.406	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.406	CRT_Analyzer_v2.1 (USDJPY,D1)	 INICIANDO TEST CRT: REINICIOS (USDJPY)
+2026.05.17 11:05:46.406	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	 RESULTADOS DE DUELO DE REINICIOS: Mensual (MN1)
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 24 | TP Limpio: 15 | SL Limpio: 6
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 2 operaciones
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 1 (50.0%)
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 0 (0.0%)
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 1
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 26 | TP Limpio: 8 | SL Limpio: 12
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 6 operaciones
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 3 (50.0%)
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 3 (50.0%)
+2026.05.17 11:05:46.422	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.17 11:05:46.423	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	 RESULTADOS DE DUELO DE REINICIOS: Semanal (W1)
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 118 | TP Limpio: 46 | SL Limpio: 52
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 19 operaciones
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 10 (52.6%)
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 9 (47.4%)
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 92 | TP Limpio: 23 | SL Limpio: 53
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 16 operaciones
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 6 (37.5%)
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 8 (50.0%)
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 2
+2026.05.17 11:05:46.439	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.440	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.440	CRT_Analyzer_v2.1 (USDJPY,D1)	 RESULTADOS DE DUELO DE REINICIOS: Diario (D1)
+2026.05.17 11:05:46.440	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.440	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:46.440	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 516 | TP Limpio: 210 | SL Limpio: 211
+2026.05.17 11:05:46.440	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 95 operaciones
+2026.05.17 11:05:46.440	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 39 (41.1%)
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 43 (45.3%)
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 457 | TP Limpio: 142 | SL Limpio: 204
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 111 operaciones
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 43 (38.7%)
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 59 (53.2%)
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 9
+2026.05.17 11:05:46.441	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.461	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.461	CRT_Analyzer_v2.1 (USDJPY,D1)	 RESULTADOS DE DUELO DE REINICIOS: 12 Horas (H12)
+2026.05.17 11:05:46.461	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.461	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:46.461	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 533 | TP Limpio: 246 | SL Limpio: 196
+2026.05.17 11:05:46.461	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 91 operaciones
+2026.05.17 11:05:46.461	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 40 (44.0%)
+2026.05.17 11:05:46.461	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 37 (40.7%)
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 14
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 474 | TP Limpio: 135 | SL Limpio: 237
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 102 operaciones
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 37 (36.3%)
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 52 (51.0%)
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.17 11:05:46.462	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	 RESULTADOS DE DUELO DE REINICIOS: 8 Horas (H8)
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 526 | TP Limpio: 242 | SL Limpio: 188
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 96 operaciones
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 36 (37.5%)
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 44 (45.8%)
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 16
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 458 | TP Limpio: 125 | SL Limpio: 241
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 92 operaciones
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 34 (37.0%)
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 45 (48.9%)
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.17 11:05:46.482	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	 RESULTADOS DE DUELO DE REINICIOS: 4 Horas (H4)
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 496 | TP Limpio: 221 | SL Limpio: 186
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 89 operaciones
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 46 (51.7%)
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 31 (34.8%)
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 12
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	Total Activados: 429 | TP Limpio: 135 | SL Limpio: 208
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	--> SUFRIERON REINICIO: 86 operaciones
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Sobrevive el Inicial (Llega a TP): 31 (36.0%)
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Gana el Reinicio (Descarta Inicial): 42 (48.8%)
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.17 11:05:46.500	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:05:52.601	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.601	CRT_Analyzer_v2.1 (XAUUSD,D1)	 INICIANDO TEST CRT: REINICIOS (XAUUSD)
+2026.05.17 11:05:52.601	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: Mensual (MN1)
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 23 | TP Limpio: 14 | SL Limpio: 2
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 5 operaciones
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 2 (40.0%)
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 3 (60.0%)
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 26 | TP Limpio: 8 | SL Limpio: 10
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 8 operaciones
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 4 (50.0%)
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 4 (50.0%)
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.17 11:05:52.852	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: Semanal (W1)
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 117 | TP Limpio: 52 | SL Limpio: 39
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 26 operaciones
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 13 (50.0%)
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 7 (26.9%)
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 5
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 98 | TP Limpio: 25 | SL Limpio: 45
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 27 operaciones
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 12 (44.4%)
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 14 (51.9%)
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 1
+2026.05.17 11:05:52.866	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: Diario (D1)
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 519 | TP Limpio: 232 | SL Limpio: 190
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 97 operaciones
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 49 (50.5%)
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 35 (36.1%)
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 488 | TP Limpio: 145 | SL Limpio: 230
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 113 operaciones
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 43 (38.1%)
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 55 (48.7%)
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 15
+2026.05.17 11:05:52.868	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: 12 Horas (H12)
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 486 | TP Limpio: 204 | SL Limpio: 178
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 104 operaciones
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 51 (49.0%)
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 34 (32.7%)
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 19
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 436 | TP Limpio: 128 | SL Limpio: 208
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 100 operaciones
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 49 (49.0%)
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 40 (40.0%)
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 11
+2026.05.17 11:05:52.886	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: 8 Horas (H8)
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 484 | TP Limpio: 198 | SL Limpio: 178
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 107 operaciones
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 46 (43.0%)
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 38 (35.5%)
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 23
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 467 | TP Limpio: 132 | SL Limpio: 236
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 99 operaciones
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 41 (41.4%)
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 46 (46.5%)
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 12
+2026.05.17 11:05:52.903	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	 RESULTADOS DE DUELO DE REINICIOS: 4 Horas (H4)
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 449 | TP Limpio: 200 | SL Limpio: 162
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 86 operaciones
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 41 (47.7%)
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 32 (37.2%)
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 13
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	Total Activados: 412 | TP Limpio: 119 | SL Limpio: 199
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	--> SUFRIERON REINICIO: 94 operaciones
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Sobrevive el Inicial (Llega a TP): 37 (39.4%)
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Gana el Reinicio (Descarta Inicial): 48 (51.1%)
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	    * Ruido (Toca SL pero no descarta): 9
+2026.05.17 11:05:52.919	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:06:01.992	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:01.992	CRT_Analyzer_v2.1 (USTEC,D1)	 INICIANDO TEST CRT: REINICIOS (USTEC)
+2026.05.17 11:06:01.992	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	 RESULTADOS DE DUELO DE REINICIOS: Mensual (MN1)
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 5 | TP Limpio: 2 | SL Limpio: 1
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 2 operaciones
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 1 (50.0%)
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 1 (50.0%)
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 2 | TP Limpio: 1 | SL Limpio: 1
+2026.05.17 11:06:02.006	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	 RESULTADOS DE DUELO DE REINICIOS: Semanal (W1)
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 23 | TP Limpio: 16 | SL Limpio: 4
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 3 operaciones
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 3 (100.0%)
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 0 (0.0%)
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 22 | TP Limpio: 7 | SL Limpio: 11
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 3 operaciones
+2026.05.17 11:06:02.018	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 1 (33.3%)
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 2 (66.7%)
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 0
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	 RESULTADOS DE DUELO DE REINICIOS: Diario (D1)
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 117 | TP Limpio: 64 | SL Limpio: 37
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 16 operaciones
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 7 (43.8%)
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 8 (50.0%)
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 1
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 100 | TP Limpio: 36 | SL Limpio: 49
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 15 operaciones
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 4 (26.7%)
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 10 (66.7%)
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 1
+2026.05.17 11:06:02.019	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	 RESULTADOS DE DUELO DE REINICIOS: 12 Horas (H12)
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 174 | TP Limpio: 96 | SL Limpio: 62
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 15 operaciones
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 8 (53.3%)
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 3 (20.0%)
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 4
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 159 | TP Limpio: 45 | SL Limpio: 84
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 30 operaciones
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 17 (56.7%)
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 12 (40.0%)
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 1
+2026.05.17 11:06:02.033	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	 RESULTADOS DE DUELO DE REINICIOS: 8 Horas (H8)
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 256 | TP Limpio: 119 | SL Limpio: 97
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 40 operaciones
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 22 (55.0%)
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 15 (37.5%)
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 3
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 213 | TP Limpio: 70 | SL Limpio: 113
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 30 operaciones
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 9 (30.0%)
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 17 (56.7%)
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 4
+2026.05.17 11:06:02.047	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	 RESULTADOS DE DUELO DE REINICIOS: 4 Horas (H4)
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS ALCISTAS
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 436 | TP Limpio: 205 | SL Limpio: 158
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 73 operaciones
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 34 (46.6%)
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 27 (37.0%)
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 12
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	>>> RANGOS BAJISTAS
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	Total Activados: 339 | TP Limpio: 96 | SL Limpio: 167
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	--> SUFRIERON REINICIO: 75 operaciones
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	    * Sobrevive el Inicial (Llega a TP): 27 (36.0%)
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	    * Gana el Reinicio (Descarta Inicial): 37 (49.3%)
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	    * Ruido (Toca SL pero no descarta): 11
+2026.05.17 11:06:02.071	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================

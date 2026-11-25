@@ -1,0 +1,533 @@
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	 MATRIZ CRT: LIMPIOS VS REINICIADOS (EURUSD)
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	 Modo: Combinado
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	==================================================================
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	 [ Mensual (MN1) ] Muestra analizada: 663 velas
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 1 | Total: 127 | WR Global: 45.7%
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 98 | WR Limpio: 48.0%
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 29 (22.8%) | WR si Reinicia: 37.9%
+2026.05.17 11:26:17.165	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 2 | Total: 18 | WR Global: 50.0%
+2026.05.17 11:26:17.166	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 10 | WR Limpio: 80.0%
+2026.05.17 11:26:17.166	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 8 (44.4%) | WR si Reinicia: 12.5%
+2026.05.17 11:26:17.166	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 3+ | Total: 3 | WR Global: 33.3%
+2026.05.17 11:26:17.166	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 1 | WR Limpio: 0.0%
+2026.05.17 11:26:17.166	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 2 (66.7%) | WR si Reinicia: 50.0%
+2026.05.17 11:26:17.166	CRT_Analyzer_v2.1 (EURUSD,H4)	 
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	 [ Semanal (W1) ] Muestra analizada: 2886 velas
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 1 | Total: 544 | WR Global: 46.9%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 433 | WR Limpio: 49.9%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 111 (20.4%) | WR si Reinicia: 35.1%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 2 | Total: 65 | WR Global: 41.5%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 51 | WR Limpio: 51.0%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 14 (21.5%) | WR si Reinicia: 7.1%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 3+ | Total: 11 | WR Global: 45.5%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 7 | WR Limpio: 42.9%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 4 (36.4%) | WR si Reinicia: 50.0%
+2026.05.17 11:26:17.167	CRT_Analyzer_v2.1 (EURUSD,H4)	 
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	 [ Diario (D1) ] Muestra analizada: 4998 velas
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 1 | Total: 1000 | WR Global: 43.1%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 778 | WR Limpio: 44.0%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 222 (22.2%) | WR si Reinicia: 40.1%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 2 | Total: 169 | WR Global: 43.8%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 129 | WR Limpio: 45.0%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 40 (23.7%) | WR si Reinicia: 40.0%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 3+ | Total: 27 | WR Global: 51.9%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 19 | WR Limpio: 47.4%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 8 (29.6%) | WR si Reinicia: 62.5%
+2026.05.17 11:26:17.169	CRT_Analyzer_v2.1 (EURUSD,H4)	 
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	 [ 12 Horas (H12) ] Muestra analizada: 5186 velas
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 1 | Total: 915 | WR Global: 42.3%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 723 | WR Limpio: 42.7%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 192 (21.0%) | WR si Reinicia: 40.6%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 2 | Total: 170 | WR Global: 41.2%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 108 | WR Limpio: 43.5%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 62 (36.5%) | WR si Reinicia: 37.1%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 3+ | Total: 39 | WR Global: 38.5%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 27 | WR Limpio: 29.6%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 12 (30.8%) | WR si Reinicia: 58.3%
+2026.05.17 11:26:17.172	CRT_Analyzer_v2.1 (EURUSD,H4)	 
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	 [ 8 Horas (H8) ] Muestra analizada: 5443 velas
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 1 | Total: 873 | WR Global: 40.0%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 677 | WR Limpio: 39.6%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 196 (22.5%) | WR si Reinicia: 41.3%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 2 | Total: 163 | WR Global: 43.6%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 128 | WR Limpio: 43.0%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 35 (21.5%) | WR si Reinicia: 45.7%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 3+ | Total: 19 | WR Global: 52.6%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 12 | WR Limpio: 50.0%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 7 (36.8%) | WR si Reinicia: 57.1%
+2026.05.17 11:26:17.174	CRT_Analyzer_v2.1 (EURUSD,H4)	 
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	 [ 4 Horas (H4) ] Muestra analizada: 6215 velas
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 1 | Total: 795 | WR Global: 44.8%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 629 | WR Limpio: 45.2%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 166 (20.9%) | WR si Reinicia: 43.4%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 2 | Total: 141 | WR Global: 41.1%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 119 | WR Limpio: 42.0%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 22 (15.6%) | WR si Reinicia: 36.4%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	Sweep 3+ | Total: 31 | WR Global: 38.7%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Limpios: 21 | WR Limpio: 47.6%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	   -> Con Reinicio: 10 (32.3%) | WR si Reinicia: 20.0%
+2026.05.17 11:26:17.176	CRT_Analyzer_v2.1 (EURUSD,H4)	 
+2026.05.17 11:30:00.829	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:30:00.829	CRT_Analyzer_v2.1 (GBPUSD,D1)	 MATRIZ CRT: LIMPIOS VS REINICIADOS (GBPUSD)
+2026.05.17 11:30:00.829	CRT_Analyzer_v2.1 (GBPUSD,D1)	 Modo: Combinado
+2026.05.17 11:30:00.829	CRT_Analyzer_v2.1 (GBPUSD,D1)	==================================================================
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	 [ Mensual (MN1) ] Muestra analizada: 234 velas
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 1 | Total: 48 | WR Global: 43.8%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 40 | WR Limpio: 45.0%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 8 (16.7%) | WR si Reinicia: 37.5%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 2 | Total: 8 | WR Global: 37.5%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 4 | WR Limpio: 75.0%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 4 (50.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	 
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	 [ Semanal (W1) ] Muestra analizada: 1022 velas
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 1 | Total: 209 | WR Global: 47.8%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 175 | WR Limpio: 50.3%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 34 (16.3%) | WR si Reinicia: 35.3%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 2 | Total: 35 | WR Global: 37.1%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 24 | WR Limpio: 37.5%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 11 (31.4%) | WR si Reinicia: 36.4%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 3+ | Total: 3 | WR Global: 0.0%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 2 | WR Limpio: 0.0%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 1 (33.3%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:00.830	CRT_Analyzer_v2.1 (GBPUSD,D1)	 
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	 [ Diario (D1) ] Muestra analizada: 5095 velas
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 1 | Total: 1000 | WR Global: 42.6%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 799 | WR Limpio: 42.1%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 201 (20.1%) | WR si Reinicia: 44.8%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 2 | Total: 169 | WR Global: 37.3%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 121 | WR Limpio: 38.0%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 48 (28.4%) | WR si Reinicia: 35.4%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 3+ | Total: 19 | WR Global: 36.8%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 14 | WR Limpio: 35.7%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 5 (26.3%) | WR si Reinicia: 40.0%
+2026.05.17 11:30:00.832	CRT_Analyzer_v2.1 (GBPUSD,D1)	 
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	 [ 12 Horas (H12) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 1 | Total: 890 | WR Global: 44.9%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 727 | WR Limpio: 46.6%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 163 (18.3%) | WR si Reinicia: 37.4%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 2 | Total: 154 | WR Global: 37.7%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 105 | WR Limpio: 38.1%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 49 (31.8%) | WR si Reinicia: 36.7%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 3+ | Total: 28 | WR Global: 42.9%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 17 | WR Limpio: 47.1%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 11 (39.3%) | WR si Reinicia: 36.4%
+2026.05.17 11:30:00.835	CRT_Analyzer_v2.1 (GBPUSD,D1)	 
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	 [ 8 Horas (H8) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 1 | Total: 860 | WR Global: 42.4%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 685 | WR Limpio: 40.9%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 175 (20.3%) | WR si Reinicia: 48.6%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 2 | Total: 168 | WR Global: 42.9%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 130 | WR Limpio: 39.2%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 38 (22.6%) | WR si Reinicia: 55.3%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 3+ | Total: 33 | WR Global: 57.6%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 23 | WR Limpio: 56.5%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 10 (30.3%) | WR si Reinicia: 60.0%
+2026.05.17 11:30:00.837	CRT_Analyzer_v2.1 (GBPUSD,D1)	 
+2026.05.17 11:30:00.839	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.839	CRT_Analyzer_v2.1 (GBPUSD,D1)	 [ 4 Horas (H4) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:00.839	CRT_Analyzer_v2.1 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:00.839	CRT_Analyzer_v2.1 (GBPUSD,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:00.839	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 1 | Total: 791 | WR Global: 45.5%
+2026.05.17 11:30:00.839	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 602 | WR Limpio: 46.2%
+2026.05.17 11:30:00.839	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 189 (23.9%) | WR si Reinicia: 43.4%
+2026.05.17 11:30:00.839	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 2 | Total: 126 | WR Global: 40.5%
+2026.05.17 11:30:00.840	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 88 | WR Limpio: 40.9%
+2026.05.17 11:30:00.840	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 38 (30.2%) | WR si Reinicia: 39.5%
+2026.05.17 11:30:00.840	CRT_Analyzer_v2.1 (GBPUSD,D1)	Sweep 3+ | Total: 34 | WR Global: 41.2%
+2026.05.17 11:30:00.840	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Limpios: 24 | WR Limpio: 45.8%
+2026.05.17 11:30:00.840	CRT_Analyzer_v2.1 (GBPUSD,D1)	   -> Con Reinicio: 10 (29.4%) | WR si Reinicia: 30.0%
+2026.05.17 11:30:00.840	CRT_Analyzer_v2.1 (GBPUSD,D1)	 
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	 MATRIZ CRT: LIMPIOS VS REINICIADOS (USDJPY)
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	 Modo: Combinado
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	==================================================================
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	 [ Mensual (MN1) ] Muestra analizada: 231 velas
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 1 | Total: 49 | WR Global: 53.1%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 41 | WR Limpio: 53.7%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 8 (16.3%) | WR si Reinicia: 50.0%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 2 | Total: 2 | WR Global: 50.0%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 1 | WR Limpio: 100.0%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 1 (50.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	 
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	 [ Semanal (W1) ] Muestra analizada: 1009 velas
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 1 | Total: 186 | WR Global: 41.9%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 153 | WR Limpio: 40.5%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 33 (17.7%) | WR si Reinicia: 48.5%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 2 | Total: 30 | WR Global: 50.0%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 19 | WR Limpio: 36.8%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 11 (36.7%) | WR si Reinicia: 72.7%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 3+ | Total: 3 | WR Global: 33.3%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 2 | WR Limpio: 50.0%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 1 (33.3%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:11.006	CRT_Analyzer_v2.1 (USDJPY,D1)	 
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	 [ Diario (D1) ] Muestra analizada: 5032 velas
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 1 | Total: 889 | WR Global: 42.4%
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 691 | WR Limpio: 43.7%
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 198 (22.3%) | WR si Reinicia: 37.9%
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 2 | Total: 143 | WR Global: 43.4%
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 106 | WR Limpio: 42.5%
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 37 (25.9%) | WR si Reinicia: 45.9%
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 3+ | Total: 20 | WR Global: 25.0%
+2026.05.17 11:30:11.008	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 12 | WR Limpio: 33.3%
+2026.05.17 11:30:11.009	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 8 (40.0%) | WR si Reinicia: 12.5%
+2026.05.17 11:30:11.009	CRT_Analyzer_v2.1 (USDJPY,D1)	 
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	 [ 12 Horas (H12) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 1 | Total: 920 | WR Global: 42.9%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 738 | WR Limpio: 44.2%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 182 (19.8%) | WR si Reinicia: 37.9%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 2 | Total: 147 | WR Global: 51.0%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 102 | WR Limpio: 52.0%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 45 (30.6%) | WR si Reinicia: 48.9%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 3+ | Total: 15 | WR Global: 46.7%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 11 | WR Limpio: 45.5%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 4 (26.7%) | WR si Reinicia: 50.0%
+2026.05.17 11:30:11.011	CRT_Analyzer_v2.1 (USDJPY,D1)	 
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	 [ 8 Horas (H8) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 1 | Total: 871 | WR Global: 42.0%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 700 | WR Limpio: 43.4%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 171 (19.6%) | WR si Reinicia: 36.3%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 2 | Total: 150 | WR Global: 39.3%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 109 | WR Limpio: 40.4%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 41 (27.3%) | WR si Reinicia: 36.6%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 3+ | Total: 20 | WR Global: 45.0%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 12 | WR Limpio: 50.0%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 8 (40.0%) | WR si Reinicia: 37.5%
+2026.05.17 11:30:11.013	CRT_Analyzer_v2.1 (USDJPY,D1)	 
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	 [ 4 Horas (H4) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	> RENDIMIENTO COMBINADO (Alcista + Bajista)
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 1 | Total: 838 | WR Global: 44.4%
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 671 | WR Limpio: 44.6%
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 167 (19.9%) | WR si Reinicia: 43.7%
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 2 | Total: 133 | WR Global: 44.4%
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 91 | WR Limpio: 48.4%
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 42 (31.6%) | WR si Reinicia: 35.7%
+2026.05.17 11:30:11.015	CRT_Analyzer_v2.1 (USDJPY,D1)	Sweep 3+ | Total: 16 | WR Global: 31.2%
+2026.05.17 11:30:11.016	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Limpios: 10 | WR Limpio: 40.0%
+2026.05.17 11:30:11.016	CRT_Analyzer_v2.1 (USDJPY,D1)	   -> Con Reinicio: 6 (37.5%) | WR si Reinicia: 16.7%
+2026.05.17 11:30:11.016	CRT_Analyzer_v2.1 (USDJPY,D1)	 
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	 MATRIZ CRT: LIMPIOS VS REINICIADOS (XAUUSD)
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	 Modo: Direcciones Separadas
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	==================================================================
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	 [ Mensual (MN1) ] Muestra analizada: 234 velas
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	> ALCISTAS
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 21 | WR Global: 76.2%
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 16 | WR Limpio: 87.5%
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 5 (23.8%) | WR si Reinicia: 40.0%
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	> BAJISTAS
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 25 | WR Global: 40.0%
+2026.05.17 11:30:18.984	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 17 | WR Limpio: 35.3%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 8 (32.0%) | WR si Reinicia: 50.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 1 | WR Global: 0.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 0 | WR Limpio: 0.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 1 (100.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	 
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	 [ Semanal (W1) ] Muestra analizada: 1023 velas
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	> ALCISTAS
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 106 | WR Global: 57.5%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 81 | WR Limpio: 59.3%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 25 (23.6%) | WR si Reinicia: 52.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 13 | WR Global: 38.5%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 9 | WR Limpio: 33.3%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 4 (30.8%) | WR si Reinicia: 50.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 1 | WR Global: 100.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 1 | WR Limpio: 100.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	> BAJISTAS
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 87 | WR Global: 36.8%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 60 | WR Limpio: 33.3%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 27 (31.0%) | WR si Reinicia: 44.4%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 10 | WR Global: 40.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 6 | WR Limpio: 33.3%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 4 (40.0%) | WR si Reinicia: 50.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 1 | WR Global: 100.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 1 | WR Limpio: 100.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:18.985	CRT_Analyzer_v2.1 (XAUUSD,D1)	 
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	 [ Diario (D1) ] Muestra analizada: 5057 velas
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	> ALCISTAS
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 472 | WR Global: 52.1%
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 382 | WR Limpio: 52.6%
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 90 (19.1%) | WR si Reinicia: 50.0%
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 74 | WR Global: 45.9%
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 54 | WR Limpio: 46.3%
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 20 (27.0%) | WR si Reinicia: 45.0%
+2026.05.17 11:30:18.987	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 9 | WR Global: 44.4%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 7 | WR Limpio: 57.1%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 2 (22.2%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	> BAJISTAS
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 452 | WR Global: 35.8%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 346 | WR Limpio: 36.1%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 106 (23.5%) | WR si Reinicia: 34.9%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 70 | WR Global: 44.3%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 51 | WR Limpio: 51.0%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 19 (27.1%) | WR si Reinicia: 26.3%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 3 | WR Global: 66.7%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 2 | WR Limpio: 50.0%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 1 (33.3%) | WR si Reinicia: 100.0%
+2026.05.17 11:30:18.988	CRT_Analyzer_v2.1 (XAUUSD,D1)	 
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	 [ 12 Horas (H12) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	> ALCISTAS
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 426 | WR Global: 51.4%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 337 | WR Limpio: 52.8%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 89 (20.9%) | WR si Reinicia: 46.1%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 79 | WR Global: 44.3%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 46 | WR Limpio: 50.0%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 33 (41.8%) | WR si Reinicia: 36.4%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 13 | WR Global: 30.8%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 9 | WR Limpio: 22.2%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 4 (30.8%) | WR si Reinicia: 50.0%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	> BAJISTAS
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 383 | WR Global: 36.8%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 295 | WR Limpio: 33.6%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 88 (23.0%) | WR si Reinicia: 47.7%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 79 | WR Global: 41.8%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 60 | WR Limpio: 45.0%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 19 (24.1%) | WR si Reinicia: 31.6%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 10 | WR Global: 30.0%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 6 | WR Limpio: 33.3%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 4 (40.0%) | WR si Reinicia: 25.0%
+2026.05.17 11:30:18.990	CRT_Analyzer_v2.1 (XAUUSD,D1)	 
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	 [ 8 Horas (H8) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	> ALCISTAS
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 421 | WR Global: 48.5%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 328 | WR Limpio: 50.9%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 93 (22.1%) | WR si Reinicia: 39.8%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 70 | WR Global: 47.1%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 46 | WR Limpio: 47.8%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 24 (34.3%) | WR si Reinicia: 45.8%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 8 | WR Global: 75.0%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 3 | WR Limpio: 33.3%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 5 (62.5%) | WR si Reinicia: 100.0%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	> BAJISTAS
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 422 | WR Global: 35.1%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 335 | WR Limpio: 34.0%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 87 (20.6%) | WR si Reinicia: 39.1%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 79 | WR Global: 44.3%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 53 | WR Limpio: 43.4%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 26 (32.9%) | WR si Reinicia: 46.2%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 10 | WR Global: 40.0%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 7 | WR Limpio: 28.6%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 3 (30.0%) | WR si Reinicia: 66.7%
+2026.05.17 11:30:18.993	CRT_Analyzer_v2.1 (XAUUSD,D1)	 
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	 [ 4 Horas (H4) ] Muestra analizada: 4998 velas
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	> ALCISTAS
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 382 | WR Global: 52.4%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 303 | WR Limpio: 53.5%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 79 (20.7%) | WR si Reinicia: 48.1%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 67 | WR Global: 41.8%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 47 | WR Limpio: 46.8%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 20 (29.9%) | WR si Reinicia: 30.0%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 12 | WR Global: 50.0%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 10 | WR Limpio: 40.0%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 2 (16.7%) | WR si Reinicia: 100.0%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	> BAJISTAS
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 1 | Total: 371 | WR Global: 35.6%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 288 | WR Limpio: 35.1%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 83 (22.4%) | WR si Reinicia: 37.3%
+2026.05.17 11:30:18.995	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 2 | Total: 65 | WR Global: 46.2%
+2026.05.17 11:30:18.996	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 46 | WR Limpio: 43.5%
+2026.05.17 11:30:18.996	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 19 (29.2%) | WR si Reinicia: 52.6%
+2026.05.17 11:30:18.996	CRT_Analyzer_v2.1 (XAUUSD,D1)	Sweep 3+ | Total: 9 | WR Global: 22.2%
+2026.05.17 11:30:18.996	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Limpios: 7 | WR Limpio: 28.6%
+2026.05.17 11:30:18.996	CRT_Analyzer_v2.1 (XAUUSD,D1)	   -> Con Reinicio: 2 (22.2%) | WR si Reinicia: 0.0%
+2026.05.17 11:30:18.996	CRT_Analyzer_v2.1 (XAUUSD,D1)	 
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	 MATRIZ CRT: LIMPIOS VS REINICIADOS (USTEC)
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	 Modo: Direcciones Separadas
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	==================================================================
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	 [ Mensual (MN1) ] Muestra analizada: 43 velas
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	> ALCISTAS
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 5 | WR Global: 40.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 3 | WR Limpio: 33.3%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 2 (40.0%) | WR si Reinicia: 50.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 1 | WR Global: 0.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 1 | WR Limpio: 0.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	> BAJISTAS
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 2 | WR Global: 50.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 2 | WR Limpio: 50.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	 
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	 [ Semanal (W1) ] Muestra analizada: 192 velas
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	> ALCISTAS
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 22 | WR Global: 77.3%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 19 | WR Limpio: 73.7%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 3 (13.6%) | WR si Reinicia: 100.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 1 | WR Global: 0.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 1 | WR Limpio: 0.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.239	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 1 | WR Global: 100.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 1 | WR Limpio: 100.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	> BAJISTAS
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 21 | WR Global: 38.1%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 17 | WR Limpio: 41.2%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 4 (19.0%) | WR si Reinicia: 25.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 2 | WR Global: 0.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 2 | WR Limpio: 0.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	 
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	 [ Diario (D1) ] Muestra analizada: 957 velas
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	> ALCISTAS
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 106 | WR Global: 56.6%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 93 | WR Limpio: 60.2%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 13 (12.3%) | WR si Reinicia: 30.8%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 16 | WR Global: 43.8%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 13 | WR Limpio: 38.5%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 3 (18.8%) | WR si Reinicia: 66.7%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 1 | WR Global: 100.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 1 | WR Limpio: 100.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	> BAJISTAS
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 95 | WR Global: 34.7%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 80 | WR Limpio: 36.2%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 15 (15.8%) | WR si Reinicia: 26.7%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 18 | WR Global: 50.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 16 | WR Limpio: 50.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 2 (11.1%) | WR si Reinicia: 50.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 2 | WR Global: 50.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 0 | WR Limpio: 0.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 2 (100.0%) | WR si Reinicia: 50.0%
+2026.05.17 11:31:18.240	CRT_Analyzer_v2.1 (USTEC,D1)	 
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	 [ 12 Horas (H12) ] Muestra analizada: 1913 velas
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	> ALCISTAS
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 160 | WR Global: 57.5%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 145 | WR Limpio: 58.6%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 15 (9.4%) | WR si Reinicia: 46.7%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 29 | WR Global: 41.4%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 23 | WR Limpio: 34.8%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 6 (20.7%) | WR si Reinicia: 66.7%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 4 | WR Global: 25.0%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 3 | WR Limpio: 33.3%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 1 (25.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	> BAJISTAS
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 149 | WR Global: 35.6%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 120 | WR Limpio: 31.7%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 29 (19.5%) | WR si Reinicia: 51.7%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 21 | WR Global: 33.3%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 16 | WR Limpio: 37.5%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 5 (23.8%) | WR si Reinicia: 20.0%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 3 | WR Global: 66.7%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 2 | WR Limpio: 100.0%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 1 (33.3%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.241	CRT_Analyzer_v2.1 (USTEC,D1)	 
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	 [ 8 Horas (H8) ] Muestra analizada: 2871 velas
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	> ALCISTAS
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 233 | WR Global: 54.5%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 196 | WR Limpio: 54.1%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 37 (15.9%) | WR si Reinicia: 56.8%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 41 | WR Global: 34.1%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 33 | WR Limpio: 33.3%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 8 (19.5%) | WR si Reinicia: 37.5%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 12 | WR Global: 58.3%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 7 | WR Limpio: 42.9%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 5 (41.7%) | WR si Reinicia: 80.0%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	> BAJISTAS
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 195 | WR Global: 32.3%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 166 | WR Limpio: 33.1%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 29 (14.9%) | WR si Reinicia: 27.6%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 28 | WR Global: 39.3%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 21 | WR Limpio: 28.6%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 7 (25.0%) | WR si Reinicia: 71.4%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 3 | WR Global: 0.0%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 3 | WR Limpio: 0.0%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 0 (0.0%) | WR si Reinicia: 0.0%
+2026.05.17 11:31:18.243	CRT_Analyzer_v2.1 (USTEC,D1)	 
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	 [ 4 Horas (H4) ] Muestra analizada: 4998 velas
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	------------------------------------------------------------------
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	> ALCISTAS
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 393 | WR Global: 49.9%
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 326 | WR Limpio: 50.3%
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 67 (17.0%) | WR si Reinicia: 47.8%
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 76 | WR Global: 44.7%
+2026.05.17 11:31:18.245	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 66 | WR Limpio: 45.5%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 10 (13.2%) | WR si Reinicia: 40.0%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 16 | WR Global: 37.5%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 13 | WR Limpio: 38.5%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 3 (18.8%) | WR si Reinicia: 33.3%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	> BAJISTAS
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 1 | Total: 313 | WR Global: 32.3%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 243 | WR Limpio: 31.7%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 70 (22.4%) | WR si Reinicia: 34.3%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 2 | Total: 47 | WR Global: 36.2%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 34 | WR Limpio: 35.3%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 13 (27.7%) | WR si Reinicia: 38.5%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	Sweep 3+ | Total: 6 | WR Global: 66.7%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Limpios: 5 | WR Limpio: 60.0%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	   -> Con Reinicio: 1 (16.7%) | WR si Reinicia: 100.0%
+2026.05.17 11:31:18.246	CRT_Analyzer_v2.1 (USTEC,D1)	 
