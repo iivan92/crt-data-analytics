@@ -1,0 +1,187 @@
+//@version=1
+// FXR Script port (prototype) of `crt_liquidez_tv.pine` core logic
+// - Implements `get_crt_info` for the CURRENT chart timeframe only (uses high(n), low(n), closeC(n))
+// - Plots t1/t2 as persistent lines and draws the previous HTF range as a rectangle
+// - Comments indicate where to plug multi-timeframe series calls in FXR
+
+init = () => {
+  // Inputs
+  // Arguments: (label, default, internalName)
+  input.float('tp_sweep_pct', 0.5, 'tp_sweep_pct')
+  input.float('tp_run_ext', 1.618, 'tp_run_ext')
+  input.int('merge_ticks', 10, 'merge_ticks')
+  input.bool('show_draws', true, 'show_draws')
+
+  // Indicator registration
+  indicator({ onMainPanel: true, format: 'price' });
+}
+
+  // Persistent last values (globals) to keep series between ticks
+  let last_t1 = NaN;
+  let last_t2 = NaN;
+  let last_h2 = NaN;
+  let last_l2 = NaN;
+  let last_bias = '-';
+  // UI handles (table/label) persisted
+  let __crt_table = null;
+  let __crt_label = null;
+
+// Helper: compute CRT info using bars: h2,l2,h1,l1,c1,h0,l0,c0 from same timeframe
+const get_crt_info = (inputs) => {
+  // Using the same indexing as Pine: [2]=two bars ago, [1]=previous, [0]=current
+  const h2 = high(2);
+  const l2 = low(2);
+  const h1 = high(1);
+  const l1 = low(1);
+  const c1 = closeC(1);
+  const h0 = high(0);
+  const l0 = low(0);
+  const c0 = closeC(0);
+
+  let c_bias = '-';
+  let pot = '-';
+  let t1 = NaN;
+  let t2 = NaN;
+  let label_t1 = '';
+  let label_t2 = '';
+
+  const range_prev = h2 - l2;
+  const mid = l2 + range_prev * inputs.tp_sweep_pct;
+  const ext_bull = l2 + range_prev * inputs.tp_run_ext;
+  const ext_bear = h2 - range_prev * inputs.tp_run_ext;
+
+  // 1. BIAS CONFIRMADO
+  if (l1 < l2 && c1 > l2 && h1 < h2) {
+    // BULL SWEEP
+    if (h0 < mid && l0 >= l1) {
+      c_bias = 'B.SWP';
+      t1 = mid; t2 = h2;
+      label_t1 = '50% B.SWP'; label_t2 = '100% B.SWP';
+    }
+  } else if (h1 > h2 && c1 > h2 && l1 > l2) {
+    // BULL RUN
+    if (h0 < ext_bull && l0 >= l2) {
+      c_bias = 'B.RUN';
+      t1 = h1; t2 = ext_bull;
+      label_t1 = 'Max.Ant B.RUN'; label_t2 = '161% B.RUN';
+    }
+  } else if (h1 > h2 && c1 < h2 && l1 > l2) {
+    // BEAR SWEEP
+    if (l0 > mid && h0 <= h1) {
+      c_bias = 'S.SWP';
+      t1 = mid; t2 = l2;
+      label_t1 = '50% S.SWP'; label_t2 = '100% S.SWP';
+    }
+  } else if (l1 < l2 && c1 < l2 && h1 < h2) {
+    // BEAR RUN
+    if (l0 > ext_bear && h0 <= h2) {
+      c_bias = 'S.RUN';
+      t1 = l1; t2 = ext_bear;
+      label_t1 = 'Min.Ant S.RUN'; label_t2 = '161% S.RUN';
+    }
+  }
+
+  // 2. POTENCIAL (vela en formación)
+  if (l0 < l1 && c0 > l1) {
+    pot = 'B.SWP';
+  } else if (h0 > h1 && c0 < h1) {
+    pot = 'S.SWP';
+  } else if (h0 > h1 && c0 > h1) {
+    pot = 'B.RUN';
+  } else if (l0 < l1 && c0 < l1) {
+    pot = 'S.RUN';
+  }
+
+  return { c_bias, pot, t1, t2, label_t1, label_t2, range_prev, h2, l2 };
+}
+
+// onTick runs every bar/tick
+onTick = (length, _moment, _, ta, inputs) => {
+  const runtimeInputs = (typeof inputs !== 'undefined' && inputs) ? inputs : { tp_sweep_pct: 0.5, tp_run_ext: 1.618, merge_ticks: 10, show_draws: true };
+  const info = get_crt_info(runtimeInputs);
+  // persistent last values to avoid flicker when values appear/disappear
+  if (typeof last_t1 === 'undefined') last_t1 = NaN;
+  if (typeof last_t2 === 'undefined') last_t2 = NaN;
+  if (typeof last_h2 === 'undefined') last_h2 = NaN;
+  if (typeof last_l2 === 'undefined') last_l2 = NaN;
+  if (typeof last_bias === 'undefined') last_bias = '-';
+
+  // update persisted values only when new valid values are present
+  if (!isNaN(info.t1)) last_t1 = info.t1;
+  if (!isNaN(info.t2)) last_t2 = info.t2;
+  if (!isNaN(info.h2)) last_h2 = info.h2;
+  if (!isNaN(info.l2)) last_l2 = info.l2;
+  if (info.c_bias && info.c_bias !== '-') last_bias = info.c_bias;
+
+  if (runtimeInputs.show_draws) {
+    // Always draw using persisted series (prevents flicker)
+    if (!isNaN(last_h2) && last_h2 !== 0) plot.line('HTF_high', last_h2, 'rgba(255,0,0,0.6)');
+    if (!isNaN(last_l2) && last_l2 !== 0) plot.line('HTF_low', last_l2, 'rgba(0,0,255,0.6)');
+
+    let tColor = 'orange';
+    if (last_bias.indexOf('B') === 0) tColor = 'green';
+    else if (last_bias.indexOf('S') === 0) tColor = 'red';
+    if (!isNaN(last_t1) && last_t1 !== 0) plot.line('T1', last_t1, tColor);
+    if (!isNaN(last_t2) && last_t2 !== 0) plot.line('T2', last_t2, tColor);
+
+    // Small marker for bias (always plotted using last known bias)
+    plot.line('BiasFlag', closeC(0), 'gray');
+    // Attempt to draw simple extended target lines and HTF range as two lines (safe API usage)
+    try {
+      if (!isNaN(last_t1) && last_t1 !== 0 && typeof plot !== 'undefined' && typeof plot.line === 'function') {
+        plot.line('T1_ext', last_t1, tColor);
+      }
+      if (!isNaN(last_t2) && last_t2 !== 0 && typeof plot !== 'undefined' && typeof plot.line === 'function') {
+        plot.line('T2_ext', last_t2, tColor);
+      }
+
+      if (!isNaN(last_h2) && !isNaN(last_l2) && typeof plot !== 'undefined' && typeof plot.line === 'function') {
+        plot.line('HTF_high_ext', last_h2, 'rgba(255,0,0,0.6)');
+        plot.line('HTF_low_ext', last_l2, 'rgba(0,0,255,0.6)');
+      }
+    } catch (e) { /* ignore UI drawing errors */ }
+  }
+
+  // --- Draw an on-chart info panel (current LTF + HTF snapshot) ---
+  const fmt = (v) => (isNaN(v) ? '-' : (Math.round(v * 100000) / 100000).toString());
+  const htfRange = (!isNaN(last_h2) && !isNaN(last_l2)) ? `${fmt(last_h2)} / ${fmt(last_l2)}` : '-';
+  const panelLines = [
+    `Bias: ${last_bias}`,
+    `Pot: ${info.pot}`,
+    `T1: ${fmt(last_t1)}`,
+    `T2: ${fmt(last_t2)}`,
+    `HTF: ${htfRange}`
+  ];
+  const panelText = panelLines.join('\n');
+
+  // Prefer table UI if available; otherwise try label API as a fallback. Wrap in try/catch
+  try {
+    const tbl = (typeof globalThis !== 'undefined' && globalThis.table) ? globalThis.table : null;
+    if (tbl && typeof tbl.new === 'function') {
+      if (!__crt_table) __crt_table = tbl.new(panelLines.length, 1, { position: 'top_right' });
+      for (let i = 0; i < panelLines.length; i++) tbl.set(__crt_table, i, 0, panelLines[i]);
+    } else {
+      const lbl = (typeof globalThis !== 'undefined' && globalThis.label) ? globalThis.label : null;
+      if (lbl && typeof lbl.new === 'function') {
+        if (!__crt_label) {
+          try {
+            __crt_label = lbl.new({ text: panelText, x: 'right', y: 'top', color: 'white', bgcolor: 'rgba(0,0,0,0.6)' });
+          } catch (e) {
+            try { __crt_label = lbl.new(panelText, { x: 'right', y: 'top' }); } catch (e2) { __crt_label = null; }
+          }
+        } else {
+          try { if (typeof lbl.set_text === 'function') lbl.set_text(__crt_label, panelText); } catch (e) { }
+        }
+      } else if (typeof console !== 'undefined' && typeof console.log === 'function') {
+        console.log('CRT panel:\n' + panelText);
+      }
+    }
+  } catch (uiErr) {
+    try { if (typeof console !== 'undefined' && typeof console.log === 'function') console.log('CRT UI error: ' + uiErr.toString()); } catch (e) {}
+  }
+
+  // Future: compute synergy by fetching higher/lower TFs via FXR multi-timeframe API and compare directions
+  // e.g. highTF = request('high', '1W') or similar (replace with FXR API calls available in the platform)
+}
+
+// End of script

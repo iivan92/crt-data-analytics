@@ -1,0 +1,390 @@
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	==================================================================
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	 INICIANDO BATCH TEST CRT (EURUSD)
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	==================================================================
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	 [ Mensual (MN1) ] Muestra analizada: 663 velas
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS ALCISTAS
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 67 | TP (100%): 32 (47.8%) | Llegan 50%: 57 (85.1%) | SL: 35
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 6 | TP (100%): 3 (50.0%) | Llegan 50%: 6 (100.0%) | SL: 3
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS BAJISTAS
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 60 | TP (100%): 26 (43.3%) | Llegan 50%: 50 (83.3%) | SL: 34
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 12 | TP (100%): 6 (50.0%) | Llegan 50%: 11 (91.7%) | SL: 6
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 3 | TP (100%): 1 (33.3%) | Llegan 50%: 2 (66.7%) | SL: 2
+2026.05.16 20:34:56.999	CRT_Analyzer_v2 (EURUSD,H4)	 
+2026.05.16 20:34:57.000	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.000	CRT_Analyzer_v2 (EURUSD,H4)	 [ Semanal (W1) ] Muestra analizada: 2886 velas
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS ALCISTAS
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 279 | TP (100%): 147 (52.7%) | Llegan 50%: 243 (87.1%) | SL: 132
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 30 | TP (100%): 12 (40.0%) | Llegan 50%: 23 (76.7%) | SL: 18
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 6 | TP (100%): 0 (0.0%) | Llegan 50%: 1 (16.7%) | SL: 6
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS BAJISTAS
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 265 | TP (100%): 108 (40.8%) | Llegan 50%: 210 (79.2%) | SL: 157
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 35 | TP (100%): 15 (42.9%) | Llegan 50%: 28 (80.0%) | SL: 20
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 5 | TP (100%): 5 (100.0%) | Llegan 50%: 5 (100.0%) | SL: 0
+2026.05.16 20:34:57.001	CRT_Analyzer_v2 (EURUSD,H4)	 
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	 [ Diario (D1) ] Muestra analizada: 4998 velas
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS ALCISTAS
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 550 | TP (100%): 267 (48.5%) | Llegan 50%: 468 (85.1%) | SL: 283
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 78 | TP (100%): 34 (43.6%) | Llegan 50%: 63 (80.8%) | SL: 44
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 11 | TP (100%): 5 (45.5%) | Llegan 50%: 7 (63.6%) | SL: 6
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS BAJISTAS
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 450 | TP (100%): 164 (36.4%) | Llegan 50%: 386 (85.8%) | SL: 286
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 91 | TP (100%): 40 (44.0%) | Llegan 50%: 76 (83.5%) | SL: 51
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 16 | TP (100%): 9 (56.2%) | Llegan 50%: 15 (93.8%) | SL: 7
+2026.05.16 20:34:57.003	CRT_Analyzer_v2 (EURUSD,H4)	 
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	 [ 12 Horas (H12) ] Muestra analizada: 5190 velas
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS ALCISTAS
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 522 | TP (100%): 240 (46.0%) | Llegan 50%: 426 (81.6%) | SL: 282
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 86 | TP (100%): 34 (39.5%) | Llegan 50%: 67 (77.9%) | SL: 52
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 21 | TP (100%): 6 (28.6%) | Llegan 50%: 13 (61.9%) | SL: 15
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS BAJISTAS
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 393 | TP (100%): 147 (37.4%) | Llegan 50%: 317 (80.7%) | SL: 246
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 84 | TP (100%): 36 (42.9%) | Llegan 50%: 66 (78.6%) | SL: 48
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 18 | TP (100%): 9 (50.0%) | Llegan 50%: 13 (72.2%) | SL: 9
+2026.05.16 20:34:57.005	CRT_Analyzer_v2 (EURUSD,H4)	 
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	 [ 8 Horas (H8) ] Muestra analizada: 5446 velas
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS ALCISTAS
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 496 | TP (100%): 231 (46.6%) | Llegan 50%: 407 (82.1%) | SL: 265
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 76 | TP (100%): 28 (36.8%) | Llegan 50%: 51 (67.1%) | SL: 48
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 8 | TP (100%): 3 (37.5%) | Llegan 50%: 6 (75.0%) | SL: 5
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS BAJISTAS
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 377 | TP (100%): 118 (31.3%) | Llegan 50%: 302 (80.1%) | SL: 259
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 87 | TP (100%): 43 (49.4%) | Llegan 50%: 70 (80.5%) | SL: 44
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 11 | TP (100%): 7 (63.6%) | Llegan 50%: 9 (81.8%) | SL: 4
+2026.05.16 20:34:57.007	CRT_Analyzer_v2 (EURUSD,H4)	 
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	 [ 4 Horas (H4) ] Muestra analizada: 6227 velas
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	------------------------------------------------------------------
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS ALCISTAS
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 425 | TP (100%): 212 (49.9%) | Llegan 50%: 345 (81.2%) | SL: 213
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 64 | TP (100%): 24 (37.5%) | Llegan 50%: 50 (78.1%) | SL: 40
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 16 | TP (100%): 4 (25.0%) | Llegan 50%: 10 (62.5%) | SL: 12
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	> BARRIDAS BAJISTAS
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 1 (Simple)  | Total: 370 | TP (100%): 144 (38.9%) | Llegan 50%: 280 (75.7%) | SL: 226
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 2 (Doble)   | Total: 77 | TP (100%): 34 (44.2%) | Llegan 50%: 54 (70.1%) | SL: 43
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	Sweep 3+ (Triple) | Total: 15 | TP (100%): 8 (53.3%) | Llegan 50%: 14 (93.3%) | SL: 7
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	 
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	==================================================================
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	 EXTRACCIÓN DE DATOS FINALIZADA
+2026.05.16 20:34:57.009	CRT_Analyzer_v2 (EURUSD,H4)	==================================================================
+2026.05.16 21:50:46.699	CRT_Analyzer_v2 (GBPUSD,D1)	==================================================================
+2026.05.16 21:50:46.699	CRT_Analyzer_v2 (GBPUSD,D1)	 INICIANDO BATCH TEST CRT (GBPUSD)
+2026.05.16 21:50:46.699	CRT_Analyzer_v2 (GBPUSD,D1)	==================================================================
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	 [ Mensual (MN1) ] Muestra analizada: 234 velas
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 28 | TP (100%): 12 (42.9%) | Llegan 50%: 22 (78.6%) | SL: 16
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 4 | TP (100%): 3 (75.0%) | Llegan 50%: 4 (100.0%) | SL: 1
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 20 | TP (100%): 9 (45.0%) | Llegan 50%: 16 (80.0%) | SL: 11
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 4 | TP (100%): 0 (0.0%) | Llegan 50%: 3 (75.0%) | SL: 4
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:50:46.726	CRT_Analyzer_v2 (GBPUSD,D1)	 
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	 [ Semanal (W1) ] Muestra analizada: 1022 velas
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 109 | TP (100%): 58 (53.2%) | Llegan 50%: 100 (91.7%) | SL: 51
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 14 | TP (100%): 5 (35.7%) | Llegan 50%: 12 (85.7%) | SL: 9
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 100 | TP (100%): 42 (42.0%) | Llegan 50%: 86 (86.0%) | SL: 58
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 21 | TP (100%): 8 (38.1%) | Llegan 50%: 15 (71.4%) | SL: 13
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 3 | TP (100%): 0 (0.0%) | Llegan 50%: 3 (100.0%) | SL: 3
+2026.05.16 21:50:46.743	CRT_Analyzer_v2 (GBPUSD,D1)	 
+2026.05.16 21:50:46.745	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	 [ Diario (D1) ] Muestra analizada: 5095 velas
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 523 | TP (100%): 245 (46.8%) | Llegan 50%: 447 (85.5%) | SL: 278
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 79 | TP (100%): 36 (45.6%) | Llegan 50%: 66 (83.5%) | SL: 43
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 9 | TP (100%): 3 (33.3%) | Llegan 50%: 6 (66.7%) | SL: 6
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 477 | TP (100%): 181 (37.9%) | Llegan 50%: 394 (82.6%) | SL: 296
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 90 | TP (100%): 27 (30.0%) | Llegan 50%: 71 (78.9%) | SL: 63
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 10 | TP (100%): 4 (40.0%) | Llegan 50%: 8 (80.0%) | SL: 6
+2026.05.16 21:50:46.746	CRT_Analyzer_v2 (GBPUSD,D1)	 
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	 [ 12 Horas (H12) ] Muestra analizada: 5000 velas
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 476 | TP (100%): 227 (47.7%) | Llegan 50%: 405 (85.1%) | SL: 249
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 70 | TP (100%): 28 (40.0%) | Llegan 50%: 51 (72.9%) | SL: 42
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 14 | TP (100%): 8 (57.1%) | Llegan 50%: 10 (71.4%) | SL: 6
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 415 | TP (100%): 174 (41.9%) | Llegan 50%: 338 (81.4%) | SL: 241
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 84 | TP (100%): 30 (35.7%) | Llegan 50%: 67 (79.8%) | SL: 54
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 14 | TP (100%): 4 (28.6%) | Llegan 50%: 8 (57.1%) | SL: 10
+2026.05.16 21:50:46.766	CRT_Analyzer_v2 (GBPUSD,D1)	 
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	 [ 8 Horas (H8) ] Muestra analizada: 5001 velas
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 471 | TP (100%): 221 (46.9%) | Llegan 50%: 390 (82.8%) | SL: 250
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 89 | TP (100%): 41 (46.1%) | Llegan 50%: 67 (75.3%) | SL: 48
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 16 | TP (100%): 8 (50.0%) | Llegan 50%: 12 (75.0%) | SL: 8
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 390 | TP (100%): 145 (37.2%) | Llegan 50%: 312 (80.0%) | SL: 245
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 79 | TP (100%): 31 (39.2%) | Llegan 50%: 59 (74.7%) | SL: 48
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 17 | TP (100%): 11 (64.7%) | Llegan 50%: 15 (88.2%) | SL: 6
+2026.05.16 21:50:46.788	CRT_Analyzer_v2 (GBPUSD,D1)	 
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	 [ 4 Horas (H4) ] Muestra analizada: 5004 velas
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 429 | TP (100%): 203 (47.3%) | Llegan 50%: 355 (82.8%) | SL: 226
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 70 | TP (100%): 27 (38.6%) | Llegan 50%: 54 (77.1%) | SL: 43
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 20 | TP (100%): 8 (40.0%) | Llegan 50%: 16 (80.0%) | SL: 12
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 1 (Simple)  | Total: 362 | TP (100%): 157 (43.4%) | Llegan 50%: 305 (84.3%) | SL: 205
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 2 (Doble)   | Total: 56 | TP (100%): 24 (42.9%) | Llegan 50%: 44 (78.6%) | SL: 32
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	Sweep 3+ (Triple) | Total: 14 | TP (100%): 6 (42.9%) | Llegan 50%: 9 (64.3%) | SL: 8
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	 
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	==================================================================
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	 EXTRACCIÓN DE DATOS FINALIZADA
+2026.05.16 21:50:46.806	CRT_Analyzer_v2 (GBPUSD,D1)	==================================================================
+2026.05.16 21:50:52.750	CRT_Analyzer_v2 (USDJPY,D1)	==================================================================
+2026.05.16 21:50:52.750	CRT_Analyzer_v2 (USDJPY,D1)	 INICIANDO BATCH TEST CRT (USDJPY)
+2026.05.16 21:50:52.750	CRT_Analyzer_v2 (USDJPY,D1)	==================================================================
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	 [ Mensual (MN1) ] Muestra analizada: 231 velas
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 23 | TP (100%): 16 (69.6%) | Llegan 50%: 21 (91.3%) | SL: 7
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 1 | TP (100%): 0 (0.0%) | Llegan 50%: 1 (100.0%) | SL: 1
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 26 | TP (100%): 10 (38.5%) | Llegan 50%: 24 (92.3%) | SL: 16
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 1 | TP (100%): 1 (100.0%) | Llegan 50%: 1 (100.0%) | SL: 0
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:50:52.778	CRT_Analyzer_v2 (USDJPY,D1)	 
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	 [ Semanal (W1) ] Muestra analizada: 1009 velas
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 109 | TP (100%): 53 (48.6%) | Llegan 50%: 90 (82.6%) | SL: 56
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 17 | TP (100%): 9 (52.9%) | Llegan 50%: 15 (88.2%) | SL: 8
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 77 | TP (100%): 25 (32.5%) | Llegan 50%: 56 (72.7%) | SL: 52
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 13 | TP (100%): 6 (46.2%) | Llegan 50%: 9 (69.2%) | SL: 7
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 3 | TP (100%): 1 (33.3%) | Llegan 50%: 2 (66.7%) | SL: 2
+2026.05.16 21:50:52.796	CRT_Analyzer_v2 (USDJPY,D1)	 
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	 [ Diario (D1) ] Muestra analizada: 5032 velas
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 464 | TP (100%): 220 (47.4%) | Llegan 50%: 407 (87.7%) | SL: 244
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 74 | TP (100%): 30 (40.5%) | Llegan 50%: 58 (78.4%) | SL: 44
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 13 | TP (100%): 4 (30.8%) | Llegan 50%: 10 (76.9%) | SL: 9
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 425 | TP (100%): 157 (36.9%) | Llegan 50%: 346 (81.4%) | SL: 268
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 69 | TP (100%): 32 (46.4%) | Llegan 50%: 54 (78.3%) | SL: 37
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 7 | TP (100%): 1 (14.3%) | Llegan 50%: 5 (71.4%) | SL: 6
+2026.05.16 21:50:52.799	CRT_Analyzer_v2 (USDJPY,D1)	 
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	 [ 12 Horas (H12) ] Muestra analizada: 5000 velas
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 483 | TP (100%): 253 (52.4%) | Llegan 50%: 414 (85.7%) | SL: 230
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 74 | TP (100%): 41 (55.4%) | Llegan 50%: 64 (86.5%) | SL: 33
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 5 | TP (100%): 2 (40.0%) | Llegan 50%: 3 (60.0%) | SL: 3
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 437 | TP (100%): 142 (32.5%) | Llegan 50%: 340 (77.8%) | SL: 295
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 73 | TP (100%): 34 (46.6%) | Llegan 50%: 58 (79.5%) | SL: 39
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 10 | TP (100%): 5 (50.0%) | Llegan 50%: 7 (70.0%) | SL: 5
+2026.05.16 21:50:52.820	CRT_Analyzer_v2 (USDJPY,D1)	 
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	 [ 8 Horas (H8) ] Muestra analizada: 5001 velas
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 469 | TP (100%): 234 (49.9%) | Llegan 50%: 409 (87.2%) | SL: 235
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 79 | TP (100%): 38 (48.1%) | Llegan 50%: 66 (83.5%) | SL: 41
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 13 | TP (100%): 6 (46.2%) | Llegan 50%: 9 (69.2%) | SL: 7
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 402 | TP (100%): 132 (32.8%) | Llegan 50%: 317 (78.9%) | SL: 270
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 71 | TP (100%): 21 (29.6%) | Llegan 50%: 47 (66.2%) | SL: 50
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 7 | TP (100%): 3 (42.9%) | Llegan 50%: 6 (85.7%) | SL: 4
+2026.05.16 21:50:52.842	CRT_Analyzer_v2 (USDJPY,D1)	 
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	 [ 4 Horas (H4) ] Muestra analizada: 5004 velas
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	------------------------------------------------------------------
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 448 | TP (100%): 237 (52.9%) | Llegan 50%: 373 (83.3%) | SL: 211
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 60 | TP (100%): 30 (50.0%) | Llegan 50%: 43 (71.7%) | SL: 30
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 6 | TP (100%): 2 (33.3%) | Llegan 50%: 5 (83.3%) | SL: 4
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 1 (Simple)  | Total: 390 | TP (100%): 136 (34.9%) | Llegan 50%: 293 (75.1%) | SL: 254
+2026.05.16 21:50:52.864	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 2 (Doble)   | Total: 73 | TP (100%): 29 (39.7%) | Llegan 50%: 50 (68.5%) | SL: 44
+2026.05.16 21:50:52.865	CRT_Analyzer_v2 (USDJPY,D1)	Sweep 3+ (Triple) | Total: 10 | TP (100%): 3 (30.0%) | Llegan 50%: 7 (70.0%) | SL: 7
+2026.05.16 21:50:52.865	CRT_Analyzer_v2 (USDJPY,D1)	 
+2026.05.16 21:50:52.865	CRT_Analyzer_v2 (USDJPY,D1)	==================================================================
+2026.05.16 21:50:52.865	CRT_Analyzer_v2 (USDJPY,D1)	 EXTRACCIÓN DE DATOS FINALIZADA
+2026.05.16 21:50:52.865	CRT_Analyzer_v2 (USDJPY,D1)	==================================================================
+2026.05.16 21:51:01.960	CRT_Analyzer_v2 (XAUUSD,D1)	==================================================================
+2026.05.16 21:51:01.960	CRT_Analyzer_v2 (XAUUSD,D1)	 INICIANDO BATCH TEST CRT (XAUUSD)
+2026.05.16 21:51:01.960	CRT_Analyzer_v2 (XAUUSD,D1)	==================================================================
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	 [ Mensual (MN1) ] Muestra analizada: 234 velas
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 21 | TP (100%): 16 (76.2%) | Llegan 50%: 20 (95.2%) | SL: 5
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 25 | TP (100%): 10 (40.0%) | Llegan 50%: 20 (80.0%) | SL: 15
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 1 | TP (100%): 0 (0.0%) | Llegan 50%: 1 (100.0%) | SL: 1
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:51:01.977	CRT_Analyzer_v2 (XAUUSD,D1)	 
+2026.05.16 21:51:01.991	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:01.991	CRT_Analyzer_v2 (XAUUSD,D1)	 [ Semanal (W1) ] Muestra analizada: 1023 velas
+2026.05.16 21:51:01.991	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:01.991	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:01.992	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 106 | TP (100%): 61 (57.5%) | Llegan 50%: 97 (91.5%) | SL: 45
+2026.05.16 21:51:01.992	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 13 | TP (100%): 5 (38.5%) | Llegan 50%: 9 (69.2%) | SL: 8
+2026.05.16 21:51:01.992	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 1 | TP (100%): 1 (100.0%) | Llegan 50%: 1 (100.0%) | SL: 0
+2026.05.16 21:51:01.992	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:01.992	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 87 | TP (100%): 32 (36.8%) | Llegan 50%: 68 (78.2%) | SL: 55
+2026.05.16 21:51:01.992	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 10 | TP (100%): 4 (40.0%) | Llegan 50%: 7 (70.0%) | SL: 6
+2026.05.16 21:51:01.992	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 1 | TP (100%): 1 (100.0%) | Llegan 50%: 1 (100.0%) | SL: 0
+2026.05.16 21:51:01.992	CRT_Analyzer_v2 (XAUUSD,D1)	 
+2026.05.16 21:51:01.995	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:01.995	CRT_Analyzer_v2 (XAUUSD,D1)	 [ Diario (D1) ] Muestra analizada: 5057 velas
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 472 | TP (100%): 246 (52.1%) | Llegan 50%: 400 (84.7%) | SL: 226
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 74 | TP (100%): 34 (45.9%) | Llegan 50%: 56 (75.7%) | SL: 40
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 9 | TP (100%): 4 (44.4%) | Llegan 50%: 7 (77.8%) | SL: 5
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 452 | TP (100%): 162 (35.8%) | Llegan 50%: 359 (79.4%) | SL: 290
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 70 | TP (100%): 31 (44.3%) | Llegan 50%: 55 (78.6%) | SL: 39
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 3 | TP (100%): 2 (66.7%) | Llegan 50%: 2 (66.7%) | SL: 1
+2026.05.16 21:51:01.996	CRT_Analyzer_v2 (XAUUSD,D1)	 
+2026.05.16 21:51:02.014	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:02.014	CRT_Analyzer_v2 (XAUUSD,D1)	 [ 12 Horas (H12) ] Muestra analizada: 5000 velas
+2026.05.16 21:51:02.014	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:02.014	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:02.015	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 426 | TP (100%): 219 (51.4%) | Llegan 50%: 354 (83.1%) | SL: 207
+2026.05.16 21:51:02.015	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 79 | TP (100%): 35 (44.3%) | Llegan 50%: 62 (78.5%) | SL: 44
+2026.05.16 21:51:02.015	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 13 | TP (100%): 4 (30.8%) | Llegan 50%: 11 (84.6%) | SL: 9
+2026.05.16 21:51:02.015	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:02.015	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 383 | TP (100%): 141 (36.8%) | Llegan 50%: 297 (77.5%) | SL: 242
+2026.05.16 21:51:02.015	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 79 | TP (100%): 33 (41.8%) | Llegan 50%: 66 (83.5%) | SL: 46
+2026.05.16 21:51:02.015	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 10 | TP (100%): 3 (30.0%) | Llegan 50%: 9 (90.0%) | SL: 7
+2026.05.16 21:51:02.015	CRT_Analyzer_v2 (XAUUSD,D1)	 
+2026.05.16 21:51:02.031	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:02.031	CRT_Analyzer_v2 (XAUUSD,D1)	 [ 8 Horas (H8) ] Muestra analizada: 5001 velas
+2026.05.16 21:51:02.031	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 422 | TP (100%): 205 (48.6%) | Llegan 50%: 369 (87.4%) | SL: 217
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 70 | TP (100%): 33 (47.1%) | Llegan 50%: 57 (81.4%) | SL: 37
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 8 | TP (100%): 6 (75.0%) | Llegan 50%: 8 (100.0%) | SL: 2
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 422 | TP (100%): 148 (35.1%) | Llegan 50%: 322 (76.3%) | SL: 274
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 79 | TP (100%): 35 (44.3%) | Llegan 50%: 63 (79.7%) | SL: 44
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 10 | TP (100%): 4 (40.0%) | Llegan 50%: 8 (80.0%) | SL: 6
+2026.05.16 21:51:02.032	CRT_Analyzer_v2 (XAUUSD,D1)	 
+2026.05.16 21:51:02.047	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	 [ 4 Horas (H4) ] Muestra analizada: 5004 velas
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	------------------------------------------------------------------
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 382 | TP (100%): 200 (52.4%) | Llegan 50%: 325 (85.1%) | SL: 182
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 67 | TP (100%): 28 (41.8%) | Llegan 50%: 52 (77.6%) | SL: 39
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 12 | TP (100%): 6 (50.0%) | Llegan 50%: 9 (75.0%) | SL: 6
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 1 (Simple)  | Total: 371 | TP (100%): 132 (35.6%) | Llegan 50%: 279 (75.2%) | SL: 239
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 2 (Doble)   | Total: 65 | TP (100%): 30 (46.2%) | Llegan 50%: 48 (73.8%) | SL: 35
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	Sweep 3+ (Triple) | Total: 9 | TP (100%): 2 (22.2%) | Llegan 50%: 4 (44.4%) | SL: 7
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	 
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	==================================================================
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	 EXTRACCIÓN DE DATOS FINALIZADA
+2026.05.16 21:51:02.048	CRT_Analyzer_v2 (XAUUSD,D1)	==================================================================
+2026.05.16 21:51:18.508	CRT_Analyzer_v2 (USTEC,D1)	==================================================================
+2026.05.16 21:51:18.508	CRT_Analyzer_v2 (USTEC,D1)	 INICIANDO BATCH TEST CRT (USTEC)
+2026.05.16 21:51:18.508	CRT_Analyzer_v2 (USTEC,D1)	==================================================================
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	 [ Mensual (MN1) ] Muestra analizada: 43 velas
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 5 | TP (100%): 2 (40.0%) | Llegan 50%: 5 (100.0%) | SL: 3
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 1 | TP (100%): 0 (0.0%) | Llegan 50%: 1 (100.0%) | SL: 1
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 2 | TP (100%): 1 (50.0%) | Llegan 50%: 1 (50.0%) | SL: 1
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:51:18.534	CRT_Analyzer_v2 (USTEC,D1)	 
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	 [ Semanal (W1) ] Muestra analizada: 192 velas
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 22 | TP (100%): 17 (77.3%) | Llegan 50%: 22 (100.0%) | SL: 5
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 1 | TP (100%): 0 (0.0%) | Llegan 50%: 1 (100.0%) | SL: 1
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 1 | TP (100%): 1 (100.0%) | Llegan 50%: 1 (100.0%) | SL: 0
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 21 | TP (100%): 8 (38.1%) | Llegan 50%: 17 (81.0%) | SL: 13
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 2 | TP (100%): 0 (0.0%) | Llegan 50%: 1 (50.0%) | SL: 2
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 0 | TP (100%): 0 (0.0%) | Llegan 50%: 0 (0.0%) | SL: 0
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	 
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	 [ Diario (D1) ] Muestra analizada: 957 velas
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 106 | TP (100%): 60 (56.6%) | Llegan 50%: 97 (91.5%) | SL: 46
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 16 | TP (100%): 7 (43.8%) | Llegan 50%: 11 (68.8%) | SL: 9
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 1 | TP (100%): 1 (100.0%) | Llegan 50%: 1 (100.0%) | SL: 0
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 95 | TP (100%): 33 (34.7%) | Llegan 50%: 72 (75.8%) | SL: 62
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 18 | TP (100%): 9 (50.0%) | Llegan 50%: 16 (88.9%) | SL: 9
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 2 | TP (100%): 1 (50.0%) | Llegan 50%: 1 (50.0%) | SL: 1
+2026.05.16 21:51:18.553	CRT_Analyzer_v2 (USTEC,D1)	 
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	 [ 12 Horas (H12) ] Muestra analizada: 1913 velas
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 160 | TP (100%): 92 (57.5%) | Llegan 50%: 127 (79.4%) | SL: 68
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 29 | TP (100%): 12 (41.4%) | Llegan 50%: 21 (72.4%) | SL: 17
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 4 | TP (100%): 1 (25.0%) | Llegan 50%: 2 (50.0%) | SL: 3
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 149 | TP (100%): 53 (35.6%) | Llegan 50%: 107 (71.8%) | SL: 96
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 21 | TP (100%): 7 (33.3%) | Llegan 50%: 18 (85.7%) | SL: 14
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 3 | TP (100%): 2 (66.7%) | Llegan 50%: 3 (100.0%) | SL: 1
+2026.05.16 21:51:18.574	CRT_Analyzer_v2 (USTEC,D1)	 
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	 [ 8 Horas (H8) ] Muestra analizada: 2871 velas
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 233 | TP (100%): 127 (54.5%) | Llegan 50%: 192 (82.4%) | SL: 106
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 41 | TP (100%): 14 (34.1%) | Llegan 50%: 32 (78.0%) | SL: 27
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 12 | TP (100%): 7 (58.3%) | Llegan 50%: 9 (75.0%) | SL: 5
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 195 | TP (100%): 63 (32.3%) | Llegan 50%: 132 (67.7%) | SL: 132
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 28 | TP (100%): 11 (39.3%) | Llegan 50%: 21 (75.0%) | SL: 17
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 3 | TP (100%): 0 (0.0%) | Llegan 50%: 2 (66.7%) | SL: 3
+2026.05.16 21:51:18.593	CRT_Analyzer_v2 (USTEC,D1)	 
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	 [ 4 Horas (H4) ] Muestra analizada: 5004 velas
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	------------------------------------------------------------------
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS ALCISTAS
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 392 | TP (100%): 194 (49.5%) | Llegan 50%: 326 (83.2%) | SL: 198
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 77 | TP (100%): 35 (45.5%) | Llegan 50%: 58 (75.3%) | SL: 42
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 16 | TP (100%): 6 (37.5%) | Llegan 50%: 8 (50.0%) | SL: 10
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	> BARRIDAS BAJISTAS
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	Sweep 1 (Simple)  | Total: 313 | TP (100%): 101 (32.3%) | Llegan 50%: 217 (69.3%) | SL: 212
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	Sweep 2 (Doble)   | Total: 47 | TP (100%): 17 (36.2%) | Llegan 50%: 35 (74.5%) | SL: 30
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	Sweep 3+ (Triple) | Total: 6 | TP (100%): 4 (66.7%) | Llegan 50%: 5 (83.3%) | SL: 2
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	 
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	==================================================================
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	 EXTRACCIÓN DE DATOS FINALIZADA
+2026.05.16 21:51:18.612	CRT_Analyzer_v2 (USTEC,D1)	==================================================================

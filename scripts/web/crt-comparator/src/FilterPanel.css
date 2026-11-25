@@ -1,0 +1,46 @@
+.filters-panel {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  background: var(--panel-bg);
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  margin-bottom: 1.5rem;
+}
+
+.filter-group h3 {
+  margin: 0 0 0.8rem 0;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.button-group {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  background: var(--bg-color);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.filter-btn:hover {
+  border-color: #555;
+  background: #252525;
+}
+
+.filter-btn.active {
+  background: rgba(76, 175, 80, 0.15);
+  border-color: var(--green);
+  color: var(--green);
+}
